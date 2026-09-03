@@ -55,3 +55,21 @@ def test_nightlife_collector_group_routes_to_nightlife():
     from scripts.collectors.router import collector_group
     assert collector_group("liv") == "nightlife"
     assert collector_group("zeyzey") == "nightlife"
+
+
+def test_comedy_music_group_routes_correctly():
+    from scripts.collectors.router import collector_group
+    assert collector_group("miami_improv") == "comedy_music"
+    assert collector_group("revolution_live") == "comedy_music"
+
+
+def test_municipal_group_routes_correctly():
+    from scripts.collectors.router import collector_group
+    assert collector_group("doral_calendar") == "municipal"
+    assert collector_group("hollywood_calendar") == "municipal"
+
+
+def test_platform_group_routes_correctly():
+    from scripts.collectors.router import collector_group
+    assert collector_group("eventbrite") == "platform"
+    assert collector_group("resident_advisor") == "platform"

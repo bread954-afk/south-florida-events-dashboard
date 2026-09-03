@@ -119,6 +119,24 @@
       "collector": "visit_lauderdale",
       "default_city": "Broward County",
       "browser_fallback": false
+    },
+    {
+      "name": "Ticketmaster Fort Lauderdale Search",
+      "url": "https://www.ticketmaster.com/search?q=fort+lauderdale",
+      "county": "broward",
+      "collector": "ticketmaster",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": true,
+      "enabled": true
+    },
+    {
+      "name": "Eventbrite Fort Lauderdale",
+      "url": "https://www.eventbrite.com/d/fl--fort-lauderdale/events/",
+      "county": "broward",
+      "collector": "eventbrite",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": true,
+      "enabled": true
     }
   ],
   "miami": [
@@ -257,6 +275,33 @@
       "collector": "frost_science",
       "default_city": "Downtown Miami",
       "browser_fallback": false
+    },
+    {
+      "name": "Ticketmaster Miami",
+      "url": "https://www.ticketmaster.com/discover/miami",
+      "county": "miami",
+      "collector": "ticketmaster",
+      "default_city": "Miami",
+      "browser_fallback": true,
+      "enabled": true
+    },
+    {
+      "name": "Resident Advisor Miami",
+      "url": "https://ra.co/events/us/miami",
+      "county": "miami",
+      "collector": "resident_advisor",
+      "default_city": "Miami",
+      "browser_fallback": true,
+      "enabled": true
+    },
+    {
+      "name": "Eventbrite Miami",
+      "url": "https://www.eventbrite.com/d/fl--miami/events/",
+      "county": "miami",
+      "collector": "eventbrite",
+      "default_city": "Miami",
+      "browser_fallback": true,
+      "enabled": true
     }
   ]
 }

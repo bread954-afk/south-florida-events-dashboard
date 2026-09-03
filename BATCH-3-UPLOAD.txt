@@ -1,0 +1,21 @@
+V2 BATCH 3
+
+Upload these files into the ROOT of your existing south-florida-events-dashboard repo.
+Keep all folder paths intact.
+
+This batch adds:
+- Miami Improv / Dania Improv collector support
+- Revolution Live / Culture Room collector support
+- Gulfstream Park collector support
+- Broward + Miami municipal/community calendar collectors
+- free public event-platform collectors
+- Ticketmaster / Eventbrite / Resident Advisor source records
+- collector routing updates
+- tests for the new collectors
+
+IMPORTANT:
+- This batch still does NOT replace scripts/update_events.py.
+- Your current live daily updater remains active.
+- Batch 4 will wire the V2 collector router into the daily updater,
+  update the GitHub Action for Playwright/tests, and perform the final
+  baseline-protection checks before V2 goes live.

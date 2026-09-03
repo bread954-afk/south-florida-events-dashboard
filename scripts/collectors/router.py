@@ -10,6 +10,20 @@ NIGHTLIFE_COLLECTORS = {
     "zeyzey", "kemistry", "backyard", "tin_roof",
 }
 
+COMEDY_MUSIC_COLLECTORS = {
+    "miami_improv", "dania_improv", "revolution_live", "culture_room", "gulfstream",
+}
+
+MUNICIPAL_COLLECTORS = {
+    "hollywood_calendar", "sunrise_calendar", "fort_lauderdale_calendar",
+    "visit_lauderdale", "miami_beach_calendar", "wynwood", "doral_calendar",
+    "coral_gables_calendar", "miami_worldcenter", "frost_science",
+}
+
+PLATFORM_COLLECTORS = {
+    "ticketmaster", "eventbrite", "dice", "resident_advisor", "shotgun", "posh",
+}
+
 
 def validate_source(source: dict) -> list[str]:
     return [
@@ -27,4 +41,10 @@ def collector_group(name: str) -> str:
         return "arena"
     if name in NIGHTLIFE_COLLECTORS:
         return "nightlife"
+    if name in COMEDY_MUSIC_COLLECTORS:
+        return "comedy_music"
+    if name in MUNICIPAL_COLLECTORS:
+        return "municipal"
+    if name in PLATFORM_COLLECTORS:
+        return "platform"
     return "jsonld"
