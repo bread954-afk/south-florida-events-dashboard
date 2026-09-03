@@ -95,7 +95,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-03",
@@ -103,13 +103,13 @@
     "name": "Special Magistrate Hearings",
     "venue": "1700 Convention Center Drive, 3rd Floor, Miami Beach, FL 33139, USA",
     "city": "Miami Beach",
-    "category": "Event",
+    "category": "Community / Event",
     "cost": "Check source",
     "url": "https://events.miamibeachfl.gov/event/special-magistrate-hearings-11/",
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-03",
@@ -151,7 +151,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-04",
@@ -159,13 +159,13 @@
     "name": "Pre-Bid Conference &#8211; ITB 2026-408-MP Normandy Isle Traffic Calming Project",
     "venue": "Miami Beach Events",
     "city": "Miami Beach",
-    "category": "Event",
+    "category": "Community / Event",
     "cost": "Check source",
     "url": "https://events.miamibeachfl.gov/event/pre-bid-conference-itb-2026-408-mp-normandy-isle-traffic-calming-project/",
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-04",
@@ -179,6 +179,20 @@
     "source": "LIV Nightclub",
     "age": "21+",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-04",
+    "time": "1:30 PM",
+    "name": "Flamenco for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/flamenco-for-seniors-2/2026-09-04/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -215,7 +229,7 @@
     "name": "Hulvey",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
-    "category": "Concert / Hip-Hop",
+    "category": "Event",
     "cost": "Ticketed",
     "url": "https://miamibeachbandshell.com/event/hulvey/",
     "source": "Miami Beach Bandshell",
@@ -285,13 +299,13 @@
     "name": "Dance Fusion for Seniors (UN) &#8211; Fri",
     "venue": "UNIDAD &#8211; 7251 Collins Avenue",
     "city": "Miami Beach",
-    "category": "Event",
+    "category": "Community / Event",
     "cost": "Check source",
     "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-fri/2026-09-04/",
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-04",
@@ -411,7 +425,7 @@
     "name": "Viva Brazil",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
-    "category": "Concert / Brazilian",
+    "category": "Festival",
     "cost": "Ticketed",
     "url": "https://miamibeachbandshell.com/event/30th-inffinito-brazilian-film-festival/",
     "source": "Miami Beach Bandshell",
@@ -663,7 +677,7 @@
     "name": "Tayc",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
-    "category": "Concert",
+    "category": "Event",
     "cost": "Ticketed",
     "url": "https://miamibeachbandshell.com/event/tayc/",
     "source": "Miami Beach Bandshell",
@@ -1027,7 +1041,7 @@
     "name": "Mari Froes",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
-    "category": "Concert / Brazilian",
+    "category": "Event",
     "cost": "Ticketed",
     "url": "https://miamibeachbandshell.com/event/mari-froes/",
     "source": "Miami Beach Bandshell",
@@ -1377,7 +1391,7 @@
     "name": "FilmGate Music Videos Festival 2026",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
-    "category": "Film / Music",
+    "category": "Festival",
     "cost": "Free RSVP",
     "url": "https://miamibeachbandshell.com/event/filmgate-music-videos-festival-2026/",
     "source": "Miami Beach Bandshell",
@@ -1713,7 +1727,7 @@
     "name": "73rd Street Beach Cleanup",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
-    "category": "Community / Outdoors",
+    "category": "Event",
     "cost": "Free RSVP",
     "url": "https://miamibeachbandshell.com/event/73rd-street-beach-cleanup/",
     "source": "Miami Beach Bandshell",
@@ -2349,7 +2363,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-26",
@@ -2497,7 +2511,7 @@
     "name": "Silvana Estrada",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
-    "category": "Concert / Latin",
+    "category": "Event",
     "cost": "Ticketed",
     "url": "https://miamibeachbandshell.com/event/silvana-estrada/",
     "source": "Miami Beach Bandshell",
