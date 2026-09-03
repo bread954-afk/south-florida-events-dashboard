@@ -1,3 +1,12 @@
+from scripts.collectors.base import CollectorResult
+from scripts.collectors.jsonld import collect_jsonld
+from scripts.collectors.arenas import collect_arena
+from scripts.collectors.nightlife import collect_nightlife
+from scripts.collectors.comedy_music import collect_comedy_music
+from scripts.collectors.municipal import collect_municipal
+from scripts.collectors.platforms import collect_platform
+
+
 REQUIRED_SOURCE_KEYS = {"name", "url", "county", "default_city"}
 
 ARENA_COLLECTORS = {
@@ -24,6 +33,15 @@ PLATFORM_COLLECTORS = {
     "ticketmaster", "eventbrite", "dice", "resident_advisor", "shotgun", "posh",
 }
 
+KNOWN_COLLECTORS = (
+    ARENA_COLLECTORS
+    | NIGHTLIFE_COLLECTORS
+    | COMEDY_MUSIC_COLLECTORS
+    | MUNICIPAL_COLLECTORS
+    | PLATFORM_COLLECTORS
+    | {"jsonld"}
+)
+
 
 def validate_source(source: dict) -> list[str]:
     return [
@@ -47,4 +65,38 @@ def collector_group(name: str) -> str:
         return "municipal"
     if name in PLATFORM_COLLECTORS:
         return "platform"
-    return "jsonld"
+    if name == "jsonld":
+        return "jsonld"
+    return "unknown"
+
+
+def collect_source(source: dict, year: int, month: int) -> CollectorResult:
+    errors = validate_source(source)
+    if errors:
+        return CollectorResult(status="config_error", message="; ".join(errors))
+
+    if source.get("enabled", True) is False:
+        return CollectorResult(status="disabled", message="source disabled")
+
+    name = collector_name(source)
+    if name not in KNOWN_COLLECTORS:
+        return CollectorResult(
+            status="config_error",
+            message=f"unknown collector: {name}",
+        )
+
+    try:
+        group = collector_group(name)
+        if group == "arena":
+            return collect_arena(source, year, month)
+        if group == "nightlife":
+            return collect_nightlife(source, year, month)
+        if group == "comedy_music":
+            return collect_comedy_music(source, year, month)
+        if group == "municipal":
+            return collect_municipal(source, year, month)
+        if group == "platform":
+            return collect_platform(source, year, month)
+        return collect_jsonld(source, year, month)
+    except Exception as exc:
+        return CollectorResult(status="parser_error", message=str(exc))

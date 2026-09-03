@@ -1,0 +1,30 @@
+V2 BATCH 4 — FINAL WIRING
+
+Upload everything inside this folder to the ROOT of your existing
+south-florida-events-dashboard GitHub repository.
+
+This batch switches the live daily updater to V2.
+
+It includes:
+- V2 orchestration runner
+- final collector router / failure isolation
+- GitHub Actions workflow with Playwright Chromium
+- automated tests before updates
+- JSON validation before commits
+- updated operations/recovery README
+
+IMPORTANT AFTER UPLOAD:
+1. Commit the files.
+2. Go to Actions -> Update South Florida events.
+3. Click Run workflow on main.
+4. Wait for the run to finish.
+5. A green check means the V2 workflow completed.
+6. If it fails, open the failed step and send the error screenshot before making other changes.
+
+The workflow uses Python module commands intentionally:
+  python -m pytest -q
+  python -m scripts.update_events
+  python -m scripts.validate_events broward-events.json miami-events.json
+
+Do not replace broward-events.json or miami-events.json with files from this package;
+they are intentionally not included so your audited 130/188 datasets stay in place.

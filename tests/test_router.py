@@ -73,3 +73,40 @@ def test_platform_group_routes_correctly():
     from scripts.collectors.router import collector_group
     assert collector_group("eventbrite") == "platform"
     assert collector_group("resident_advisor") == "platform"
+
+
+def test_collect_source_turns_adapter_exception_into_nonfatal_result(monkeypatch):
+    import scripts.collectors.router as router
+
+    source = {
+        "name": "Broken Venue",
+        "url": "https://example.com",
+        "county": "miami",
+        "collector": "jsonld",
+        "default_city": "Miami",
+    }
+
+    def boom(*args, **kwargs):
+        raise RuntimeError("site changed")
+
+    monkeypatch.setattr(router, "collect_jsonld", boom, raising=False)
+    result = router.collect_source(source, 2026, 9)
+
+    assert result.status == "parser_error"
+    assert "site changed" in result.message
+    assert result.events == []
+
+
+def test_unknown_collector_returns_config_error():
+    from scripts.collectors.router import collect_source
+
+    source = {
+        "name": "Unknown",
+        "url": "https://example.com",
+        "county": "miami",
+        "collector": "mystery_collector",
+        "default_city": "Miami",
+    }
+    result = collect_source(source, 2026, 9)
+    assert result.status == "config_error"
+    assert "unknown collector" in result.message
