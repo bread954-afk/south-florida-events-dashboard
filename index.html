@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>South Florida Events Radar</title>
+<style>
+:root{--bg:#061019;--panel:#0d1825;--line:#223b55;--text:#f8fafc;--muted:#9fb0c3;--blue:#38bdf8}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;display:grid;place-items:center;background:radial-gradient(circle at 20% 0%,rgba(56,189,248,.12),transparent 30%),var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;padding:24px}
+.wrap{max-width:950px;width:100%}
+.kicker{font-size:12px;color:#7dd3fc;text-transform:uppercase;letter-spacing:.18em;font-weight:900}
+h1{font-size:clamp(42px,7vw,78px);line-height:.95;letter-spacing:-.05em;margin:10px 0 14px}
+p{color:var(--muted);font-size:17px;line-height:1.6;max-width:720px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:30px}
+.card{display:block;text-decoration:none;color:inherit;background:linear-gradient(180deg,#102033,#0b1623);border:1px solid var(--line);border-radius:24px;padding:26px;transition:.18s ease}
+.card:hover{transform:translateY(-3px);border-color:var(--blue)}
+.card span{display:block;color:#7dd3fc;font-size:12px;font-weight:900;letter-spacing:.1em;text-transform:uppercase}
+.card h2{font-size:30px;margin:8px 0}
+.card p{font-size:14px;margin:0}
+.footer{margin-top:22px;color:#718399;font-size:12px}
+@media(max-width:700px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<main class="wrap">
+<div class="kicker">South Florida • Events Radar</div>
+<h1>What’s happening?</h1>
+<p>Choose a county to browse concerts, nightlife, parties, comedy, sports, food, festivals, free events and more.</p>
+<div class="grid">
+<a class="card" href="broward.html"><span>County Dashboard</span><h2>Broward</h2><p>Fort Lauderdale, Hollywood, Sunrise, Dania Beach, Davie, Hallandale Beach and more.</p></a>
+<a class="card" href="miami.html"><span>County Dashboard</span><h2>Miami-Dade</h2><p>Miami, Miami Beach, Wynwood, Brickell, Doral, Coral Gables, Miami Gardens and more.</p></a>
+</div>
+<div class="footer">Public event information only • Hosted via GitHub Pages</div>
+</main>
+</body>
+</html>
