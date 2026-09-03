@@ -3,154 +3,260 @@
     {
       "name": "Seminole Hard Rock Hollywood",
       "url": "https://casino.hardrock.com/hollywood/events/",
-      "default_city": "Hollywood"
+      "county": "broward",
+      "collector": "hardrock_hollywood",
+      "default_city": "Hollywood",
+      "browser_fallback": false
     },
     {
       "name": "Hard Rock Nightlife / DAER",
       "url": "https://www.hardrocknightlife.com/",
-      "default_city": "Hollywood"
+      "county": "broward",
+      "collector": "hardrock_nightlife",
+      "default_city": "Hollywood",
+      "browser_fallback": true
     },
     {
       "name": "Amerant Bank Arena",
       "url": "https://www.amerantbankarena.com/events/all",
-      "default_city": "Sunrise"
+      "county": "broward",
+      "collector": "amerant",
+      "default_city": "Sunrise",
+      "browser_fallback": false
     },
     {
       "name": "Broward Center",
       "url": "https://www.browardcenter.org/events",
-      "default_city": "Fort Lauderdale"
+      "county": "broward",
+      "collector": "broward_center",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": false
     },
     {
       "name": "Revolution Live",
       "url": "https://www.jointherevolution.net/locations/revolution-live/",
-      "default_city": "Fort Lauderdale"
+      "county": "broward",
+      "collector": "revolution_live",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": false
     },
     {
       "name": "Culture Room",
       "url": "https://cultureroom.net/",
-      "default_city": "Fort Lauderdale"
+      "county": "broward",
+      "collector": "culture_room",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": false
     },
     {
       "name": "Kemistry",
       "url": "https://kemistrynightclub.com/",
-      "default_city": "Fort Lauderdale"
+      "county": "broward",
+      "collector": "kemistry",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": true
     },
     {
       "name": "Backyard FTL",
       "url": "https://backyardftl.com/",
-      "default_city": "Fort Lauderdale"
+      "county": "broward",
+      "collector": "backyard",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": true
     },
     {
       "name": "Dania Improv",
       "url": "https://www.daniaimprov.com/",
-      "default_city": "Dania Beach"
+      "county": "broward",
+      "collector": "dania_improv",
+      "default_city": "Dania Beach",
+      "browser_fallback": false
     },
     {
       "name": "Gulfstream Park",
       "url": "https://www.gulfstreampark.com/events/",
-      "default_city": "Hallandale Beach"
+      "county": "broward",
+      "collector": "gulfstream",
+      "default_city": "Hallandale Beach",
+      "browser_fallback": false
+    },
+    {
+      "name": "Tin Roof Fort Lauderdale",
+      "url": "https://tinroofftlauderdale.com/",
+      "county": "broward",
+      "collector": "tin_roof",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": false
     },
     {
       "name": "City of Hollywood",
       "url": "https://www.hollywoodfl.org/calendar.aspx",
-      "default_city": "Hollywood"
+      "county": "broward",
+      "collector": "hollywood_calendar",
+      "default_city": "Hollywood",
+      "browser_fallback": false
     },
     {
       "name": "City of Sunrise",
       "url": "https://www.sunrisefl.gov/departments-services/leisure-services/events",
-      "default_city": "Sunrise"
+      "county": "broward",
+      "collector": "sunrise_calendar",
+      "default_city": "Sunrise",
+      "browser_fallback": false
     },
     {
       "name": "Fort Lauderdale Events",
       "url": "https://www.fortlauderdale.gov/Explore-FTL/Event-Calendar",
-      "default_city": "Fort Lauderdale"
+      "county": "broward",
+      "collector": "fort_lauderdale_calendar",
+      "default_city": "Fort Lauderdale",
+      "browser_fallback": false
     },
     {
       "name": "Visit Lauderdale",
       "url": "https://www.visitlauderdale.com/events/",
-      "default_city": "Broward County"
+      "county": "broward",
+      "collector": "visit_lauderdale",
+      "default_city": "Broward County",
+      "browser_fallback": false
     }
   ],
   "miami": [
     {
       "name": "Kaseya Center",
       "url": "https://www.kaseyacenter.com/events/all",
-      "default_city": "Downtown Miami"
+      "county": "miami",
+      "collector": "kaseya",
+      "default_city": "Downtown Miami",
+      "browser_fallback": false
+    },
+    {
+      "name": "Hard Rock Stadium",
+      "url": "https://www.hardrockstadium.com/events/",
+      "county": "miami",
+      "collector": "hard_rock_stadium",
+      "default_city": "Miami Gardens",
+      "browser_fallback": false
     },
     {
       "name": "LIV Miami",
       "url": "https://www.livnightclub.com/miami/events/",
-      "default_city": "Miami Beach"
+      "county": "miami",
+      "collector": "liv",
+      "default_city": "Miami Beach",
+      "browser_fallback": true
     },
     {
       "name": "E11EVEN Miami",
       "url": "https://www.11miami.com/events",
-      "default_city": "Downtown Miami"
+      "county": "miami",
+      "collector": "eleven",
+      "default_city": "Downtown Miami",
+      "browser_fallback": true
     },
     {
       "name": "Miami Beach Bandshell",
       "url": "https://miamibeachbandshell.com/events/month/",
-      "default_city": "Miami Beach"
+      "county": "miami",
+      "collector": "miami_beach_bandshell",
+      "default_city": "Miami Beach",
+      "browser_fallback": false
     },
     {
       "name": "Miami Beach Events",
       "url": "https://events.miamibeachfl.gov/events/",
-      "default_city": "Miami Beach"
+      "county": "miami",
+      "collector": "miami_beach_calendar",
+      "default_city": "Miami Beach",
+      "browser_fallback": false
     },
     {
       "name": "Wynwood BID",
       "url": "https://wynwoodmiami.com/events/",
-      "default_city": "Wynwood"
+      "county": "miami",
+      "collector": "wynwood",
+      "default_city": "Wynwood",
+      "browser_fallback": false
     },
     {
       "name": "ZeyZey",
       "url": "https://calendar.zeyzeymiami.com/",
-      "default_city": "Little River"
+      "county": "miami",
+      "collector": "zeyzey",
+      "default_city": "Little River",
+      "browser_fallback": false
     },
     {
       "name": "Miami Improv",
       "url": "https://www.miamiimprov.com/events",
-      "default_city": "Doral"
+      "county": "miami",
+      "collector": "miami_improv",
+      "default_city": "Doral",
+      "browser_fallback": false
     },
     {
       "name": "Adrienne Arsht Center",
       "url": "https://www.arshtcenter.org/tickets/",
-      "default_city": "Downtown Miami"
+      "county": "miami",
+      "collector": "arsht",
+      "default_city": "Downtown Miami",
+      "browser_fallback": false
     },
     {
       "name": "James L. Knight Center",
       "url": "https://www.jlkc.com/events",
-      "default_city": "Downtown Miami"
+      "county": "miami",
+      "collector": "jlkc",
+      "default_city": "Downtown Miami",
+      "browser_fallback": false
     },
     {
       "name": "Club Space",
       "url": "https://www.clubspace.com/events",
-      "default_city": "Downtown Miami"
+      "county": "miami",
+      "collector": "club_space",
+      "default_city": "Downtown Miami",
+      "browser_fallback": true
     },
     {
       "name": "Factory Town",
       "url": "https://www.factorytown.com/",
-      "default_city": "Miami"
+      "county": "miami",
+      "collector": "factory_town",
+      "default_city": "Miami",
+      "browser_fallback": true
     },
     {
       "name": "Coral Gables Events",
       "url": "https://www.coralgables.com/events",
-      "default_city": "Coral Gables"
+      "county": "miami",
+      "collector": "coral_gables_calendar",
+      "default_city": "Coral Gables",
+      "browser_fallback": false
     },
     {
       "name": "City of Doral",
       "url": "https://www.cityofdoral.com/Departments/Parks-and-Recreation/Special-Events",
-      "default_city": "Doral"
+      "county": "miami",
+      "collector": "doral_calendar",
+      "default_city": "Doral",
+      "browser_fallback": false
     },
     {
       "name": "Miami Worldcenter",
       "url": "https://miamiworldcenter.com/events/",
-      "default_city": "Downtown Miami"
+      "county": "miami",
+      "collector": "miami_worldcenter",
+      "default_city": "Downtown Miami",
+      "browser_fallback": false
     },
     {
       "name": "Frost Science",
       "url": "https://www.frostscience.org/events/",
-      "default_city": "Downtown Miami"
+      "county": "miami",
+      "collector": "frost_science",
+      "default_city": "Downtown Miami",
+      "browser_fallback": false
     }
   ]
 }

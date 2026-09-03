@@ -1,0 +1,20 @@
+South Florida Events Updater V2 — Batch 1
+
+Upload/replace the files in this package in the existing GitHub repository, preserving the folder paths.
+
+Batch 1 adds:
+- pytest test harness
+- unchanged-schema event normalization
+- safe deduplication/merge helpers
+- JSON dataset validation
+- explicit source registry metadata
+- collector base/router scaffolding
+- generic JSON-LD collector
+
+IMPORTANT:
+- The existing scripts/update_events.py is intentionally NOT replaced in Batch 1.
+- The live daily updater therefore keeps its current behavior while this V2 foundation is staged.
+- Event JSON files and dashboard HTML are not replaced in this batch.
+- Broward baseline remains 130 events; Miami-Dade remains 188 events.
+
+After uploading, do not delete any existing files that are not included here.
