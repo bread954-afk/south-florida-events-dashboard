@@ -14,10 +14,12 @@ input,select,button{min-height:45px;border-radius:11px;border:1px solid var(--li
 .scroll{overflow-x:auto}.week,.cal{display:grid;grid-template-columns:repeat(7,minmax(120px,1fr));min-width:840px}.week{background:#091521}.week div{text-align:center;padding:11px;font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:#9fb0c3;font-weight:900}
 .day{min-height:145px;border:0;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:#0b1724;color:var(--text);text-align:left;padding:9px;cursor:pointer}.day:hover,.day.active{background:#14263a}.day.active{box-shadow:inset 0 0 0 2px var(--blue)}.day.today .num{background:var(--blue);color:#00121b}.blank{background:#08111b}.num{display:grid;place-items:center;width:28px;height:28px;border-radius:9px;font-weight:900}.evt{display:block;margin-top:5px;padding:5px 6px;border-radius:7px;background:#152a40;border:1px solid #284965;font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.evt.hot{border-color:#7c5d21;color:#fff3c4}.evt.new:before{content:"NEW ";font-size:8px;color:var(--green);font-weight:900}
 .side{position:sticky;top:80px;max-height:calc(100vh - 95px);display:flex;flex-direction:column}.list{overflow:auto;padding:12px}.card{background:linear-gradient(180deg,#122237,#0d1b2b);border:1px solid var(--line);border-radius:15px;padding:14px;margin-bottom:10px}.top{display:flex;justify-content:space-between;gap:10px}.card h3{margin:0;font-size:16px;line-height:1.3}.card-tools{display:flex;align-items:flex-start;gap:7px;flex-shrink:0}.fav-btn{display:grid;place-items:center;min-height:30px;width:32px;padding:0;border-radius:9px;background:#0a1724;border:1px solid #31506c;color:#a9bfd4;font-size:18px;line-height:1}.fav-btn:hover,.fav-btn.active{color:var(--gold);border-color:#8a6b28;background:#211b0d}.badge{font-size:10px;font-weight:900;border:1px solid #31506c;border-radius:999px;padding:5px 7px;white-space:nowrap;height:max-content;color:#cdeeff}.newb{color:var(--green);font-size:10px;font-weight:900;margin-bottom:5px}.meta{color:#c5d2df;font-size:13px;line-height:1.6;margin-top:8px}.muted{color:var(--muted)}.price{color:var(--green);font-weight:900}.source{color:#8fdcff}.btn{display:inline-flex;margin-top:10px;background:var(--blue);color:#03141c;text-decoration:none;font-weight:900;padding:9px 11px;border-radius:10px}.empty{padding:28px;text-align:center;color:var(--muted)}
+.mobile-topbar,.mobile-nav{display:none}
 @media(max-width:1050px){.toolbar{grid-template-columns:1fr 1fr}.toolbar input{grid-column:1/-1}.grid{grid-template-columns:1fr}.side{position:static;max-height:none}.list{overflow:visible}.stats{grid-template-columns:repeat(3,1fr)}}
-@media(max-width:650px){.wrap{padding:10px}.toolbar{grid-template-columns:1fr}.toolbar input{grid-column:auto}.stats{grid-template-columns:1fr 1fr}.hero{padding-top:14px}}
+@media(max-width:650px){body{padding-bottom:84px}.wrap{padding:0 10px 92px}.mobile-topbar{display:flex;position:sticky;top:0;z-index:30;align-items:center;gap:10px;margin:0 -10px;padding:10px 12px;background:rgba(6,16,25,.96);backdrop-filter:blur(18px);border-bottom:1px solid var(--line)}.mobile-topbar .home-btn{min-height:44px;padding:0 12px;flex-shrink:0}.mobile-title{min-width:0;display:flex;flex-direction:column;gap:2px}.mobile-title b{font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.mobile-title small{font-size:10px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.hero{padding:18px 2px 10px;align-items:flex-start}.hero-actions{display:none}.kicker{font-size:10px}h1{font-size:42px}.sub{font-size:14px;line-height:1.45}.toolbar{position:static;grid-template-columns:1fr;padding:10px;border-radius:14px;gap:8px}.toolbar input{grid-column:auto}input,select,button{min-height:48px;font-size:16px}.quick{flex-wrap:nowrap;overflow-x:auto;padding:2px 0 6px;margin:10px 0;scrollbar-width:none;-webkit-overflow-scrolling:touch}.quick::-webkit-scrollbar{display:none}.chip{white-space:nowrap;min-height:44px;padding:0 14px}.stats{grid-template-columns:1fr 1fr;gap:8px;margin:10px 0}.stat{padding:12px;border-radius:14px}.stat b{font-size:23px}.grid{grid-template-columns:1fr;gap:10px}.panel{border-radius:16px}.head{padding:12px 13px}.scroll{-webkit-overflow-scrolling:touch}.week,.cal{grid-template-columns:repeat(7,minmax(96px,1fr));min-width:672px}.week div{padding:9px 4px}.day{min-height:122px;padding:7px}.evt{font-size:10px;padding:4px 5px}.side{position:static;max-height:none}.list{overflow:visible;padding:8px}.card{padding:14px;border-radius:14px;margin-bottom:9px}.top{align-items:flex-start;flex-wrap:wrap}.card h3{font-size:18px;flex:1;min-width:210px}.card-tools{width:100%;justify-content:space-between}.fav-btn{width:44px;min-height:44px;font-size:22px}.badge{font-size:11px;padding:7px 9px}.meta{font-size:14px;line-height:1.65}.btn{width:100%;justify-content:center;min-height:48px;font-size:15px}.mobile-nav{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;position:fixed;left:10px;right:10px;bottom:max(10px,env(safe-area-inset-bottom));z-index:40;padding:8px;background:rgba(9,21,34,.96);backdrop-filter:blur(18px);border:1px solid var(--line);border-radius:16px;box-shadow:0 16px 50px rgba(0,0,0,.4)}.mobile-mode{min-height:48px;border-radius:11px;background:#102135;color:#dbeafe;border:1px solid var(--line);font-size:12px;font-weight:900;padding:0 8px}.mobile-mode.active{background:var(--blue);color:#03141c;border-color:var(--blue)}}
 </style></head><body>
 <div class="wrap">
+<div class="mobile-topbar"><a class="home-btn" href="index.html">← Home</a><div class="mobile-title"><b>Miami-Dade Events</b><small id="lastUpdatedMobile">Last updated after next sync</small></div></div>
 <div class="hero"><div><div class="kicker">Miami-Dade County • Full Audit & Expanded</div><h1>Events Radar</h1><div class="sub">Miami, Miami Beach, Wynwood, Downtown, Brickell and beyond — concerts, parties, clubs, festivals, food, free events and premium experiences from major venues and local calendars.</div></div><div class="hero-actions"><a class="home-btn" href="index.html">← Home</a><div class="live">● Live • <span id="lastUpdated">Last updated after next sync</span></div></div></div>
 <div class="toolbar">
 <input id="search" type="search" placeholder="Search artist, event, venue, city, source…"/>
@@ -31,7 +33,7 @@ input,select,button{min-height:45px;border-radius:11px;border:1px solid var(--li
 <div class="grid">
 <section class="panel"><div class="head"><div><h2>September 2026</h2><small>Tap a date to focus the event feed</small></div><small id="status"></small></div><div class="scroll"><div class="week"><div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div></div><div id="cal" class="cal"></div></div></section>
 <aside class="panel side"><div class="head"><div><h2 id="title">All events</h2><small id="results"></small></div></div><div id="list" class="list"></div></aside>
-</div></div>
+</div><nav class="mobile-nav" aria-label="Mobile event filters"><button class="mobile-mode active" data-mode="all">All</button><button class="mobile-mode" data-mode="week">This Week</button><button class="mobile-mode" data-mode="favorites">★ Favorites</button></nav></div>
 <script>
 let events=[];
 const DATA_URL="miami-events.json";
@@ -43,6 +45,7 @@ function saveFavorites(){try{localStorage.setItem(FAVORITES_KEY,JSON.stringify([
 function eventKey(e){return [e.date,e.time,e.name,e.venue].map(v=>String(v||'').trim().toLowerCase()).join('|')}
 function isFavorite(e){return favorites.has(eventKey(e))}
 function toggleFavoriteKey(key){favorites.has(key)?favorites.delete(key):favorites.add(key);saveFavorites()}
+function setLastUpdatedText(value){document.getElementById('lastUpdated').textContent=value;const mobile=document.getElementById('lastUpdatedMobile');if(mobile)mobile.textContent=value}
 async function loadLastUpdated(){
  try{
   const r=await fetch(LAST_UPDATED_URL,{cache:'no-store'});
@@ -50,8 +53,8 @@ async function loadLastUpdated(){
   const data=await r.json();
   const dt=new Date(data.updated_at);
   const shown=Number.isNaN(dt.getTime())?String(data.updated_at||'unavailable'):dt.toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
-  document.getElementById('lastUpdated').textContent=`Last updated ${shown}`;
- }catch(err){console.warn('Could not load last-updated timestamp',err);document.getElementById('lastUpdated').textContent='Last updated after next sync'}
+  setLastUpdatedText(`Last updated ${shown}`);
+ }catch(err){console.warn('Could not load last-updated timestamp',err);setLastUpdatedText('Last updated after next sync')}
 }
 const search=document.getElementById('search'),city=document.getElementById('city'),cat=document.getElementById('cat'),price=document.getElementById('price'),cal=document.getElementById('cal'),list=document.getElementById('list');
 let selectedDay=null,mode='all'; const todayDay=2;
@@ -82,7 +85,9 @@ function renderCal(){
  let arr=modeFilter(base());let h='<div class="day blank"></div><div class="day blank"></div>';
  for(let d=1;d<=30;d++){let es=arr.filter(e=>+e.date.slice(-2)===d);let cls=['day'];if(d===selectedDay)cls.push('active');if(d===todayDay)cls.push('today');h+=`<button class="${cls.join(' ')}" data-d="${d}"><span class="num">${d}</span>${es.slice(0,4).map(e=>`<span class="evt ${e.featured?'hot':''} ${e.new?'new':''}" title="${esc(e.name)}">${esc(e.name)}</span>`).join('')}${es.length>4?`<span class="evt">+${es.length-4} more</span>`:''}</button>`}cal.innerHTML=h;cal.querySelectorAll('[data-d]').forEach(b=>b.onclick=()=>{let d=+b.dataset.d;selectedDay=selectedDay===d?null:d;render()})
 }
+function syncModeControls(){document.querySelectorAll('.chip,.mobile-mode').forEach(x=>x.classList.toggle('active',x.dataset.mode===mode))}
 function render(){
+ syncModeControls();
  const f=filtered(), all=events;
  document.getElementById('count').textContent=f.length;
  document.getElementById('weekCount').textContent=all.filter(e=>{let d=+e.date.slice(-2);return d>=2&&d<=8}).length;
@@ -97,8 +102,8 @@ function render(){
  renderCal();
 }
 [search,city,cat,price].forEach(x=>x.addEventListener(x===search?'input':'change',()=>{selectedDay=null;render()}));
-document.getElementById('clear').onclick=()=>{search.value='';city.value='';cat.value='';price.value='';selectedDay=null;mode='all';document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('active',c.dataset.mode==='all'));render()};
-document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{mode=c.dataset.mode;selectedDay=null;document.querySelectorAll('.chip').forEach(x=>x.classList.toggle('active',x===c));render()});
+document.getElementById('clear').onclick=()=>{search.value='';city.value='';cat.value='';price.value='';selectedDay=null;mode='all';syncModeControls();render()};
+document.querySelectorAll('.chip,.mobile-mode').forEach(c=>c.onclick=()=>{mode=c.dataset.mode;selectedDay=null;syncModeControls();render()});
 render();
 }catch(err){
  console.error(err);

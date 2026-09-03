@@ -1,4 +1,4 @@
-MOBILE-FRIENDLY DASHBOARD UPGRADE
+ADD TO CALENDAR UPGRADE
 
 Upload everything inside this folder to the ROOT of your existing
 south-florida-events-dashboard GitHub repository.
@@ -7,32 +7,31 @@ Replace:
 - broward.html
 - miami.html
 
-Also upload:
+Add:
+- calendar.js
+
+Also upload/update:
+- tests/test_calendar_export.py
 - tests/test_dashboard_features.py
 
-Mobile improvements on BOTH dashboards:
-- compact sticky mobile header
-- Home button in the mobile header
-- Last updated shown in the mobile header
-- stacked mobile-friendly search/filter controls
-- 48px touch-friendly form controls
-- horizontally scrollable filter chips
-- compact responsive stat cards
-- touch-friendly horizontally scrollable calendar
-- full-width mobile event cards
-- 44px favorite button
-- full-width Event / Tickets button
-- fixed bottom navigation: All / This Week / Favorites
-- desktop and mobile filter controls stay synchronized
-- safe-area support for modern phones
+What it adds:
+- 📅 Add to Calendar button on every event card
+- Downloads a standard .ics calendar event
+- Uses the event title, date/time, venue, city, category, cost, age info, and ticket/event link
+- Events with a specific time get a timed calendar entry
+- Events with TBD / Evening / Night / other non-specific times are saved as all-day events
+- Events with a listed time range use that range
+- Single-time events default to a 2-hour duration
+- Overnight ranges roll into the next day
 
 No changes are made to:
 - broward-events.json
 - miami-events.json
 - event schema
-- updater/collector system
+- updater/collector workflow
 
 After upload:
 1. Commit changes.
 2. Wait for GitHub Pages to republish.
-3. Refresh the live site on your phone.
+3. Refresh both dashboards.
+4. Tap 📅 Add to Calendar on a test event.
