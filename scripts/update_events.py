@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from scripts.collectors.router import collect_source
 from scripts.events.merge import merge_events
@@ -14,6 +15,21 @@ def load_json(path: Path, default):
     if not path.exists():
         return default
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def write_last_updated(root: Path = ROOT, now: datetime | None = None) -> dict:
+    eastern = ZoneInfo("America/New_York")
+    stamp = now or datetime.now(eastern)
+    if stamp.tzinfo is None:
+        stamp = stamp.replace(tzinfo=eastern)
+    else:
+        stamp = stamp.astimezone(eastern)
+    payload = {"updated_at": stamp.isoformat(timespec="seconds")}
+    (root / "last-updated.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return payload
 
 
 def update_county(
@@ -71,6 +87,8 @@ def main() -> int:
         )
         print(f"[DONE] {county}: {before} -> {after}; warnings={len(warnings)}")
 
+    metadata = write_last_updated(ROOT)
+    print(f"[DONE] last updated: {metadata['updated_at']}")
     return 0
 
 

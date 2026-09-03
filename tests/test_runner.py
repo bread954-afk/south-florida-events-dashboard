@@ -152,3 +152,17 @@ def test_invalid_merged_dataset_is_not_written(tmp_path, monkeypatch):
 
     saved = json.loads(path.read_text(encoding="utf-8"))
     assert saved == [EVENT]
+
+
+def test_write_last_updated_creates_eastern_timestamp(tmp_path):
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    import json
+    import scripts.update_events as runner
+
+    stamp = datetime(2026, 9, 3, 16, 30, tzinfo=ZoneInfo("America/New_York"))
+    payload = runner.write_last_updated(tmp_path, now=stamp)
+
+    saved = json.loads((tmp_path / "last-updated.json").read_text(encoding="utf-8"))
+    assert payload == saved
+    assert saved == {"updated_at": "2026-09-03T16:30:00-04:00"}

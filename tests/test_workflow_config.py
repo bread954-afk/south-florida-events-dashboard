@@ -13,3 +13,9 @@ def test_workflow_runs_tests_playwright_and_validation():
     ]
     for token in required:
         assert token in text
+
+
+def test_workflow_commits_last_updated_metadata():
+    from pathlib import Path
+    text = Path('.github/workflows/update-events.yml').read_text(encoding='utf-8')
+    assert 'last-updated.json' in text

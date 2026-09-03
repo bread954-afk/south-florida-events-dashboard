@@ -1,0 +1,24 @@
+DASHBOARD UI UPGRADE — LAST UPDATED + FAVORITES + HOME
+
+Upload everything inside this folder to the ROOT of your existing
+south-florida-events-dashboard GitHub repository and commit the changes.
+
+Adds to BOTH dashboards:
+- Home button -> index.html
+- Last updated timestamp from last-updated.json
+- Favorite star on every event card
+- Favorites filter chip
+- Favorites persist in localStorage on that browser/device
+
+Updater changes:
+- Every successful V2 run creates/updates last-updated.json using America/New_York time.
+- GitHub Actions commits last-updated.json along with the two event JSON files.
+
+IMPORTANT AFTER UPLOAD:
+1. Commit the files.
+2. Go to Actions -> Update South Florida events -> Run workflow.
+3. Wait for a green Success result.
+4. Refresh the live site.
+5. last-updated.json will be created by that successful workflow run.
+
+Favorites are browser-local. A favorite saved in Chrome on one device does not automatically sync to another device.
