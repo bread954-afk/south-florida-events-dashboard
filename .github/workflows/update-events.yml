@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-events:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
 
     steps:
       - name: Check out repository
@@ -20,12 +21,22 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Run tests
+        run: python -m pytest -q
+
       - name: Update event JSON
-        run: python scripts/update_events.py
+        run: python -m scripts.update_events
+
+      - name: Validate generated JSON
+        run: python -m scripts.validate_events broward-events.json miami-events.json
 
       - name: Commit changes
         run: |
