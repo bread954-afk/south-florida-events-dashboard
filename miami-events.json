@@ -239,6 +239,20 @@
   },
   {
     "date": "2026-09-04",
+    "time": "7:00 PM",
+    "name": "Hulvey at Miami Beach Bandshell",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/hulvey-at-miami-beach-bandshell/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-04",
     "time": "7:30 PM",
     "name": "Michael Blackson",
     "venue": "Miami Improv",
@@ -263,6 +277,20 @@
     "source": "ZeyZey",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-04",
+    "time": "8:00 PM",
+    "name": "Juanes",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00644C82656F1A?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=juanes_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -388,6 +416,20 @@
     "url": "https://www.eventbrite.com/e/in-between-retrospective-journeys-day-01-tickets-1996341174192",
     "source": "Eventbrite / Organizer",
     "age": "Under 16 with parent/guardian",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-05",
+    "time": "1:00 PM",
+    "name": "Kaseya Center All-Access Tour",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Sports",
+    "cost": "Check source",
+    "url": "https://www.universe.com/events/kaseya-center-all-access-tour-tickets-J2H8C4",
+    "source": "Kaseya Center",
+    "age": "",
     "featured": false,
     "new": true
   },
@@ -856,6 +898,20 @@
   {
     "date": "2026-09-11",
     "time": "8:00 PM",
+    "name": "Omar Courtz",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D006494AAAD946F?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=omar-courtz_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-11",
+    "time": "8:00 PM",
     "name": "Omar Courtz — Por Si Mañana No Estoy Tour",
     "venue": "Kaseya Center",
     "city": "Downtown Miami",
@@ -976,6 +1032,20 @@
     "url": "https://www.livnightclub.com/miami/events/",
     "source": "LIV Nightclub",
     "age": "21+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-12",
+    "time": "1:00 PM",
+    "name": "Kaseya Center All-Access Tour",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Sports",
+    "cost": "Check source",
+    "url": "https://www.universe.com/events/kaseya-center-all-access-tour-tickets-J2H8C4",
+    "source": "Kaseya Center",
+    "age": "",
     "featured": false,
     "new": true
   },
@@ -1248,6 +1318,20 @@
   {
     "date": "2026-09-14",
     "time": "8:30 PM",
+    "name": "Rosalía",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=rosalia_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-14",
+    "time": "8:30 PM",
     "name": "Rosalía — LUX Tour 2026",
     "venue": "Kaseya Center",
     "city": "Downtown Miami",
@@ -1500,6 +1584,20 @@
   {
     "date": "2026-09-18",
     "time": "7:30 PM",
+    "name": "Gorillaz",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00645ACAB6102B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=gorillaz_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-18",
+    "time": "7:30 PM",
     "name": "Gorillaz — The Mountain Tour",
     "venue": "Kaseya Center",
     "city": "Downtown Miami",
@@ -1647,6 +1745,20 @@
     "cost": "Free — no reservation required",
     "url": "https://www.arshtcenter.org/plan-your-visit/tours/",
     "source": "Adrienne Arsht Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-19",
+    "time": "1:00 PM",
+    "name": "Kaseya Center All-Access Tour",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Sports",
+    "cost": "Check source",
+    "url": "https://www.universe.com/events/kaseya-center-all-access-tour-tickets-J2H8C4",
+    "source": "Kaseya Center",
     "age": "",
     "featured": false,
     "new": true
