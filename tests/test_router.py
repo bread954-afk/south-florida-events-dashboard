@@ -43,3 +43,15 @@ def test_all_sources_have_valid_registry_shape():
             )
             assert source["county"] == county
     assert errors == []
+
+
+def test_arena_collector_group_routes_to_arena():
+    from scripts.collectors.router import collector_group
+    assert collector_group("kaseya") == "arena"
+    assert collector_group("amerant") == "arena"
+
+
+def test_nightlife_collector_group_routes_to_nightlife():
+    from scripts.collectors.router import collector_group
+    assert collector_group("liv") == "nightlife"
+    assert collector_group("zeyzey") == "nightlife"

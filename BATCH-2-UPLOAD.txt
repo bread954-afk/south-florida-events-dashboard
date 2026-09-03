@@ -1,0 +1,19 @@
+V2 BATCH 2
+
+Upload these files into the ROOT of your existing south-florida-events-dashboard repo.
+Keep all folder paths intact.
+
+This batch adds:
+- reusable HTML event-card parsing
+- Playwright/Chromium browser fallback
+- arena/theater collector pack
+- nightlife/dynamic-site collector pack
+- collector routing updates
+- parser tests and fixtures
+- fixture-capture developer utility
+
+IMPORTANT:
+- This batch does NOT replace scripts/update_events.py yet.
+- Your current live daily updater remains active.
+- The included HTML fixtures are parser test fixtures, not dashboard event data.
+- Batch 3 will connect comedy/music/municipal/platform collectors and then wire the V2 router into the daily runner.
