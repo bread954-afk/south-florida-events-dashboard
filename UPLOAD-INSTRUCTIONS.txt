@@ -1,24 +1,38 @@
-DASHBOARD UI UPGRADE — LAST UPDATED + FAVORITES + HOME
+MOBILE-FRIENDLY DASHBOARD UPGRADE
 
 Upload everything inside this folder to the ROOT of your existing
-south-florida-events-dashboard GitHub repository and commit the changes.
+south-florida-events-dashboard GitHub repository.
 
-Adds to BOTH dashboards:
-- Home button -> index.html
-- Last updated timestamp from last-updated.json
-- Favorite star on every event card
-- Favorites filter chip
-- Favorites persist in localStorage on that browser/device
+Replace:
+- broward.html
+- miami.html
 
-Updater changes:
-- Every successful V2 run creates/updates last-updated.json using America/New_York time.
-- GitHub Actions commits last-updated.json along with the two event JSON files.
+Also upload:
+- tests/test_dashboard_features.py
 
-IMPORTANT AFTER UPLOAD:
-1. Commit the files.
-2. Go to Actions -> Update South Florida events -> Run workflow.
-3. Wait for a green Success result.
-4. Refresh the live site.
-5. last-updated.json will be created by that successful workflow run.
+Mobile improvements on BOTH dashboards:
+- compact sticky mobile header
+- Home button in the mobile header
+- Last updated shown in the mobile header
+- stacked mobile-friendly search/filter controls
+- 48px touch-friendly form controls
+- horizontally scrollable filter chips
+- compact responsive stat cards
+- touch-friendly horizontally scrollable calendar
+- full-width mobile event cards
+- 44px favorite button
+- full-width Event / Tickets button
+- fixed bottom navigation: All / This Week / Favorites
+- desktop and mobile filter controls stay synchronized
+- safe-area support for modern phones
 
-Favorites are browser-local. A favorite saved in Chrome on one device does not automatically sync to another device.
+No changes are made to:
+- broward-events.json
+- miami-events.json
+- event schema
+- updater/collector system
+
+After upload:
+1. Commit changes.
+2. Wait for GitHub Pages to republish.
+3. Refresh the live site on your phone.
