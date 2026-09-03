@@ -1,0 +1,156 @@
+{
+  "broward": [
+    {
+      "name": "Seminole Hard Rock Hollywood",
+      "url": "https://casino.hardrock.com/hollywood/events/",
+      "default_city": "Hollywood"
+    },
+    {
+      "name": "Hard Rock Nightlife / DAER",
+      "url": "https://www.hardrocknightlife.com/",
+      "default_city": "Hollywood"
+    },
+    {
+      "name": "Amerant Bank Arena",
+      "url": "https://www.amerantbankarena.com/events/all",
+      "default_city": "Sunrise"
+    },
+    {
+      "name": "Broward Center",
+      "url": "https://www.browardcenter.org/events",
+      "default_city": "Fort Lauderdale"
+    },
+    {
+      "name": "Revolution Live",
+      "url": "https://www.jointherevolution.net/locations/revolution-live/",
+      "default_city": "Fort Lauderdale"
+    },
+    {
+      "name": "Culture Room",
+      "url": "https://cultureroom.net/",
+      "default_city": "Fort Lauderdale"
+    },
+    {
+      "name": "Kemistry",
+      "url": "https://kemistrynightclub.com/",
+      "default_city": "Fort Lauderdale"
+    },
+    {
+      "name": "Backyard FTL",
+      "url": "https://backyardftl.com/",
+      "default_city": "Fort Lauderdale"
+    },
+    {
+      "name": "Dania Improv",
+      "url": "https://www.daniaimprov.com/",
+      "default_city": "Dania Beach"
+    },
+    {
+      "name": "Gulfstream Park",
+      "url": "https://www.gulfstreampark.com/events/",
+      "default_city": "Hallandale Beach"
+    },
+    {
+      "name": "City of Hollywood",
+      "url": "https://www.hollywoodfl.org/calendar.aspx",
+      "default_city": "Hollywood"
+    },
+    {
+      "name": "City of Sunrise",
+      "url": "https://www.sunrisefl.gov/departments-services/leisure-services/events",
+      "default_city": "Sunrise"
+    },
+    {
+      "name": "Fort Lauderdale Events",
+      "url": "https://www.fortlauderdale.gov/Explore-FTL/Event-Calendar",
+      "default_city": "Fort Lauderdale"
+    },
+    {
+      "name": "Visit Lauderdale",
+      "url": "https://www.visitlauderdale.com/events/",
+      "default_city": "Broward County"
+    }
+  ],
+  "miami": [
+    {
+      "name": "Kaseya Center",
+      "url": "https://www.kaseyacenter.com/events/all",
+      "default_city": "Downtown Miami"
+    },
+    {
+      "name": "LIV Miami",
+      "url": "https://www.livnightclub.com/miami/events/",
+      "default_city": "Miami Beach"
+    },
+    {
+      "name": "E11EVEN Miami",
+      "url": "https://www.11miami.com/events",
+      "default_city": "Downtown Miami"
+    },
+    {
+      "name": "Miami Beach Bandshell",
+      "url": "https://miamibeachbandshell.com/events/month/",
+      "default_city": "Miami Beach"
+    },
+    {
+      "name": "Miami Beach Events",
+      "url": "https://events.miamibeachfl.gov/events/",
+      "default_city": "Miami Beach"
+    },
+    {
+      "name": "Wynwood BID",
+      "url": "https://wynwoodmiami.com/events/",
+      "default_city": "Wynwood"
+    },
+    {
+      "name": "ZeyZey",
+      "url": "https://calendar.zeyzeymiami.com/",
+      "default_city": "Little River"
+    },
+    {
+      "name": "Miami Improv",
+      "url": "https://www.miamiimprov.com/events",
+      "default_city": "Doral"
+    },
+    {
+      "name": "Adrienne Arsht Center",
+      "url": "https://www.arshtcenter.org/tickets/",
+      "default_city": "Downtown Miami"
+    },
+    {
+      "name": "James L. Knight Center",
+      "url": "https://www.jlkc.com/events",
+      "default_city": "Downtown Miami"
+    },
+    {
+      "name": "Club Space",
+      "url": "https://www.clubspace.com/events",
+      "default_city": "Downtown Miami"
+    },
+    {
+      "name": "Factory Town",
+      "url": "https://www.factorytown.com/",
+      "default_city": "Miami"
+    },
+    {
+      "name": "Coral Gables Events",
+      "url": "https://www.coralgables.com/events",
+      "default_city": "Coral Gables"
+    },
+    {
+      "name": "City of Doral",
+      "url": "https://www.cityofdoral.com/Departments/Parks-and-Recreation/Special-Events",
+      "default_city": "Doral"
+    },
+    {
+      "name": "Miami Worldcenter",
+      "url": "https://miamiworldcenter.com/events/",
+      "default_city": "Downtown Miami"
+    },
+    {
+      "name": "Frost Science",
+      "url": "https://www.frostscience.org/events/",
+      "default_city": "Downtown Miami"
+    }
+  ]
+}
