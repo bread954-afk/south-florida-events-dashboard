@@ -71,6 +71,48 @@
   },
   {
     "date": "2026-09-03",
+    "time": "12:00 PM",
+    "name": "Cultural Arts Council",
+    "venue": "1755 Meridian Ave, Miami Beach, FL 33139, USA",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/cultural-arts-council-2/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-03",
+    "time": "6:00 PM",
+    "name": "Seniors&#8217; Police Ball",
+    "venue": "Miami Beach Convention Center Grand Ballrooms (20st Street &#038; Washington Avenue)",
+    "city": "Miami Beach",
+    "category": "Food / Dining",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/seniors-police-ball/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-03",
+    "time": "9:00 AM",
+    "name": "Special Magistrate Hearings",
+    "venue": "1700 Convention Center Drive, 3rd Floor, Miami Beach, FL 33139, USA",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/special-magistrate-hearings-11/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-03",
     "time": "Night",
     "name": "LDW ft K Gianni at E11EVEN",
     "venue": "E11EVEN Miami",
@@ -99,16 +141,30 @@
   },
   {
     "date": "2026-09-04",
-    "time": "10:00 PM",
-    "name": "Michael Blackson",
-    "venue": "Miami Improv",
-    "city": "Doral",
-    "category": "Comedy",
-    "cost": "Ticketed",
-    "url": "https://www.miamiimprov.com/shows/371729",
-    "source": "Miami Improv",
-    "age": "21+ unless otherwise stated",
-    "featured": true,
+    "time": "10:00 AM",
+    "name": "Art Class for Seniors (UN) – Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/art-class-for-seniors-fri-2/2026-09-04/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-04",
+    "time": "11:00 AM",
+    "name": "Pre-Bid Conference &#8211; ITB 2026-408-MP Normandy Isle Traffic Calming Project",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/pre-bid-conference-itb-2026-408-mp-normandy-isle-traffic-calming-project/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -155,17 +211,17 @@
   },
   {
     "date": "2026-09-04",
-    "time": "7:00 PM - 11:00 PM",
+    "time": "7:00 PM",
     "name": "Hulvey",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
     "category": "Concert / Hip-Hop",
     "cost": "Ticketed",
-    "url": "https://miamibeachbandshell.com/events/month/",
+    "url": "https://miamibeachbandshell.com/event/hulvey/",
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": true,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-04",
@@ -221,6 +277,20 @@
     "source": "ZeyZey",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-04",
+    "time": "9:15 AM",
+    "name": "Dance Fusion for Seniors (UN) &#8211; Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-fri/2026-09-04/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -337,31 +407,17 @@
   },
   {
     "date": "2026-09-05",
-    "time": "6:30 PM - 10:30 PM",
+    "time": "6:30 PM",
     "name": "Viva Brazil",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
     "category": "Concert / Brazilian",
     "cost": "Ticketed",
-    "url": "https://miamibeachbandshell.com/events/month/",
+    "url": "https://miamibeachbandshell.com/event/30th-inffinito-brazilian-film-festival/",
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": true,
-    "new": true
-  },
-  {
-    "date": "2026-09-05",
-    "time": "7:00 PM",
-    "name": "Michael Blackson",
-    "venue": "Miami Improv",
-    "city": "Doral",
-    "category": "Comedy",
-    "cost": "Ticketed",
-    "url": "https://www.miamiimprov.com/shows/371729",
-    "source": "Miami Improv",
-    "age": "21+ unless otherwise stated",
-    "featured": true,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-05",
@@ -603,6 +659,20 @@
   },
   {
     "date": "2026-09-07",
+    "time": "7:30 PM",
+    "name": "Tayc",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Concert",
+    "cost": "Ticketed",
+    "url": "https://miamibeachbandshell.com/event/tayc/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": true,
+    "new": false
+  },
+  {
+    "date": "2026-09-07",
     "time": "Night",
     "name": "Labor Day ft Damaged Goods at E11EVEN",
     "venue": "E11EVEN Miami",
@@ -613,20 +683,6 @@
     "source": "E11EVEN Miami",
     "age": "21+",
     "featured": false,
-    "new": true
-  },
-  {
-    "date": "2026-09-07",
-    "time": "TBD",
-    "name": "Tayc",
-    "venue": "Miami Beach Bandshell",
-    "city": "Miami Beach",
-    "category": "Concert",
-    "cost": "Ticketed",
-    "url": "https://miamibeachbandshell.com/",
-    "source": "Miami Beach Bandshell",
-    "age": "",
-    "featured": true,
     "new": true
   },
   {
@@ -725,20 +781,6 @@
     "source": "Miami Improv",
     "age": "21+ generally",
     "featured": false,
-    "new": true
-  },
-  {
-    "date": "2026-09-11",
-    "time": "10:00 PM",
-    "name": "Cedric the Entertainer",
-    "venue": "Miami Improv",
-    "city": "Doral",
-    "category": "Comedy",
-    "cost": "Ticketed",
-    "url": "https://www.miamiimprov.com/events/141095",
-    "source": "Miami Improv",
-    "age": "21+ unless otherwise stated",
-    "featured": true,
     "new": true
   },
   {
@@ -953,20 +995,6 @@
   },
   {
     "date": "2026-09-12",
-    "time": "7:00 PM",
-    "name": "Cedric the Entertainer",
-    "venue": "Miami Improv",
-    "city": "Doral",
-    "category": "Comedy",
-    "cost": "Ticketed",
-    "url": "https://www.miamiimprov.com/events/141095",
-    "source": "Miami Improv",
-    "age": "21+ unless otherwise stated",
-    "featured": true,
-    "new": true
-  },
-  {
-    "date": "2026-09-12",
     "time": "7:00 PM - 10:30 PM",
     "name": "Boots & Blooms",
     "venue": "Fairchild Tropical Botanic Garden",
@@ -1001,11 +1029,11 @@
     "city": "Miami Beach",
     "category": "Concert / Brazilian",
     "cost": "Ticketed",
-    "url": "https://miamibeachbandshell.com/",
+    "url": "https://miamibeachbandshell.com/event/mari-froes/",
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": true,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-12",
@@ -1351,11 +1379,11 @@
     "city": "Miami Beach",
     "category": "Film / Music",
     "cost": "Free RSVP",
-    "url": "https://miamibeachbandshell.com/",
+    "url": "https://miamibeachbandshell.com/event/filmgate-music-videos-festival-2026/",
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-17",
@@ -1687,11 +1715,11 @@
     "city": "Miami Beach",
     "category": "Community / Outdoors",
     "cost": "Free RSVP",
-    "url": "https://miamibeachbandshell.com/",
+    "url": "https://miamibeachbandshell.com/event/73rd-street-beach-cleanup/",
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-19",
@@ -2312,6 +2340,20 @@
   {
     "date": "2026-09-26",
     "time": "8:00 PM",
+    "name": "Santiago Cruz",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/santiago-cruz/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-26",
+    "time": "8:00 PM",
     "name": "Santiago Cruz — Sigo en Pie Tour",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
@@ -2457,11 +2499,11 @@
     "city": "Miami Beach",
     "category": "Concert / Latin",
     "cost": "Ticketed",
-    "url": "https://miamibeachbandshell.com/",
+    "url": "https://miamibeachbandshell.com/event/silvana-estrada/",
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": true,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-27",
