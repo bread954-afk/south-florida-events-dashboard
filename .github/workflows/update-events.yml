@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "south-florida-events-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add broward-events.json miami-events.json
+          git add broward-events.json miami-events.json last-updated.json
           if git diff --cached --quiet; then
             echo "No event changes today."
           else
