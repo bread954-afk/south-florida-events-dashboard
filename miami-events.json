@@ -463,6 +463,20 @@
   },
   {
     "date": "2026-09-05",
+    "time": "6:00 PM",
+    "name": "Viva Brazil  30 Years celebration of the Brazilian Film Festival",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Festival",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/viva-brazil-30-years-celebration-of-the-brazilian-film-festival/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-05",
     "time": "6:30 PM",
     "name": "Viva Brazil",
     "venue": "Miami Beach Bandshell",
