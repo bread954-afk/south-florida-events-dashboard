@@ -473,7 +473,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-05",
@@ -515,6 +515,20 @@
     "source": "Ticketmaster / James L. Knight Center",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-05",
+    "time": "8:00 PM",
+    "name": "The Opera Atelier presents:  ﻿Opera Juana Inés",
+    "venue": "Miami Beach Community Church",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/the-opera-atelier-presents-opera-juana-ines/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -631,6 +645,20 @@
   },
   {
     "date": "2026-09-06",
+    "time": "5:00 PM",
+    "name": "The Ocean Drive Promenade Music Series",
+    "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-09-06/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-06",
     "time": "5:00 PM - 6:00 PM",
     "name": "Ocean Drive Promenade Music Series",
     "venue": "Ocean Drive",
@@ -639,6 +667,20 @@
     "cost": "Free",
     "url": "https://events.miamibeachfl.gov/events/month/2026-09/",
     "source": "City of Miami Beach",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-06",
+    "time": "6:00 PM",
+    "name": "Cuerda &#038; Clave at The Betsy Piano Bar",
+    "venue": "betsey hotel",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-09-06/",
+    "source": "Miami Beach Events",
     "age": "",
     "featured": false,
     "new": true
@@ -669,6 +711,20 @@
     "source": "Miami Improv",
     "age": "21+ unless otherwise stated",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-06",
+    "time": "9:00 AM",
+    "name": "Lincoln Road Farmer&#8217;s Market",
+    "venue": "Lenox Avenue &#038; Lincoln Road",
+    "city": "Miami Beach",
+    "category": "Market",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-09-06/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -723,6 +779,34 @@
     "cost": "Ticketed",
     "url": "https://www.kaseyacenter.com/events/all",
     "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-07",
+    "time": "12:00 AM",
+    "name": "Labor Day",
+    "venue": "Miami Beach City Hall",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/labor-day/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-07",
+    "time": "7:15 PM",
+    "name": "Tayc",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/tayc/",
+    "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
     "new": true
