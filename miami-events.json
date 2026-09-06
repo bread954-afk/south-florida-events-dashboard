@@ -655,7 +655,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-06",
@@ -683,7 +683,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-06",
@@ -725,7 +725,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-06",
@@ -785,6 +785,34 @@
   },
   {
     "date": "2026-09-07",
+    "time": "10:00 AM",
+    "name": "Tai Chi Ruler for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2-2/2026-09-07/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-07",
+    "time": "10:30 AM",
+    "name": "Calisthenics for Seniors (UN)",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/calisthenics-un-2-2-2/2026-09-07/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-07",
     "time": "12:00 AM",
     "name": "Labor Day",
     "venue": "Miami Beach City Hall",
@@ -795,7 +823,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-07",
@@ -809,7 +837,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-07",
