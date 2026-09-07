@@ -795,7 +795,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-07",
@@ -809,7 +809,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-07",
@@ -824,6 +824,48 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-09-07",
+    "time": "12:00 PM",
+    "name": "Water Aerobics (FL)",
+    "venue": "Flamingo Park Pool",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl-2/2026-09-07/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-07",
+    "time": "12:00 PM",
+    "name": "Water Aerobics (FL)",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl/2026-09-07/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-07",
+    "time": "1:30 PM",
+    "name": "Sound Therapy for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/sound-therapy-un-2-2/2026-09-07/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-09-07",
