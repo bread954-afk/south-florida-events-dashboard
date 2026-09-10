@@ -110,3 +110,18 @@ def test_unknown_collector_returns_config_error():
     result = collect_source(source, 2026, 9)
     assert result.status == "config_error"
     assert "unknown collector" in result.message
+
+
+def test_miami_registry_has_broad_shotgun_and_factory_town_fallback_sources():
+    data = json.loads(Path("sources.json").read_text(encoding="utf-8"))
+    sources = {source["name"]: source for source in data["miami"]}
+
+    assert "Shotgun Miami" in sources
+    assert sources["Shotgun Miami"]["collector"] == "shotgun"
+    assert sources["Shotgun Miami"]["url"].startswith("https://r.shotgun.live/")
+    assert sources["Shotgun Miami"].get("max_pages", 0) >= 8
+
+    assert "Factory Town / Insomniac" in sources
+    assert sources["Factory Town / Insomniac"]["collector"] == "insomniac_factory"
+
+    assert sources["ZeyZey"]["browser_fallback"] is True

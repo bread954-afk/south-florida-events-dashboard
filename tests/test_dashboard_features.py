@@ -61,3 +61,21 @@ def test_mobile_and_desktop_mode_controls_stay_in_sync():
         assert "document.querySelectorAll('.chip,.mobile-mode')" in html
         assert "syncModeControls()" in html
         assert "lastUpdatedMobile" in html
+
+
+def test_both_dashboards_have_sep_dec_month_selector_and_shared_month_script():
+    for filename in ("miami.html", "broward.html"):
+        html = read_dashboard(filename)
+        assert '<script src="dashboard-months.js"></script>' in html
+        assert 'id="month"' in html
+        for value, label in (
+            ("2026-09", "September 2026"),
+            ("2026-10", "October 2026"),
+            ("2026-11", "November 2026"),
+            ("2026-12", "December 2026"),
+        ):
+            assert f'<option value="{value}">{label}</option>' in html
+        assert 'id="monthHeading"' in html
+        assert 'SFMonths.defaultMonth(new Date())' in html
+        assert 'SFMonths.monthMeta(selectedMonth)' in html
+        assert 'SFMonths.eventInMonth(e.date,selectedMonth)' in html

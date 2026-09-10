@@ -1,0 +1,36 @@
+SEP–DEC 2026 MULTI-MONTH UPGRADE
+
+Upload everything in this package to the ROOT of the existing
+south-florida-events-dashboard GitHub repository, preserving folder paths.
+
+Key additions/changes:
+- Add dashboard-months.js
+- Replace miami.html and broward.html
+- Replace scripts/update_events.py
+- Replace scripts/events/merge.py
+- Add/update the included tests
+- Replace README.md and README-AUTO-UPDATE.md
+
+The existing September event archives are preserved in this package:
+- Miami-Dade: 250 September events
+- Broward: 143 September events
+
+October, November, and December are intentionally allowed to start empty.
+The updated GitHub Action will scan the current month plus every remaining
+month through December and append future events as public sources expose them.
+
+AFTER UPLOAD
+1. Commit the files to the same branch that currently deploys GitHub Pages.
+2. Open Actions -> Update South Florida events -> Run workflow.
+3. Confirm the log contains source lines for 2026-09, 2026-10, 2026-11, and 2026-12.
+4. Confirm the updater Action turns green.
+5. Confirm pages build and deployment turns green.
+6. Hard-refresh the existing Miami and Broward dashboard URLs.
+7. Switch the Month selector through Sep / Oct / Nov / Dec on both dashboards.
+
+Expected updater log format:
+[OK] Miami 2026-10 / ZeyZey: N events
+[WARN] Miami 2026-11 / Some Source: ...
+[DONE] miami: before -> after; months=2026-09,2026-10,2026-11,2026-12; warnings=N
+
+No new Pages site or new dashboard URL is needed.

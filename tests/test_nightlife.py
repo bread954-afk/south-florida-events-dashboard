@@ -28,3 +28,41 @@ def test_browser_fallback_used_when_http_empty(monkeypatch):
     result = nightlife.collect_nightlife(source, 2026, 9, client=Client())
     assert result.status == "ok"
     assert any(e["name"] == "Fetty Wap" for e in result.events)
+
+
+def test_insomniac_factory_town_page_finds_kaskade_and_fisher():
+    html = '''
+    <section id="upcoming-events">
+      <article class="event-card">
+        <span>Concerts</span><span>18+</span>
+        <a class="event-name" href="/events/kaskade-2026-09-18-miami-fl/">Kaskade</a>
+        <span>Origin</span>
+        <time>Friday, September 18, 2026</time>
+        <span>Miami, FL</span>
+        <a href="https://dice.fm/event/kaskade">Buy Tickets</a>
+      </article>
+      <article class="event-card">
+        <span>Concerts</span><span>18+</span>
+        <a class="event-name" href="/events/fisher-2026-09-26-miami-fl/">Fisher</a>
+        <time>Saturday, September 26, 2026</time>
+        <span>Miami, FL</span>
+        <a href="https://link.dice.fm/fisher">Join Waitlist</a>
+      </article>
+    </section>
+    '''
+    source = {
+        "name": "Factory Town / Insomniac",
+        "default_city": "Miami",
+        "default_venue": "Factory Town",
+    }
+    events = nightlife.parse_nightlife_html(
+        "insomniac_factory", html, source,
+        "https://www.insomniac.com/events/our-world/factory-town/", 2026, 9,
+    )
+    by_name = {event["name"]: event for event in events}
+    assert set(by_name) == {"Kaskade", "Fisher"}
+    assert by_name["Kaskade"]["date"] == "2026-09-18"
+    assert by_name["Kaskade"]["venue"] == "Factory Town"
+    assert by_name["Kaskade"]["age"] == "18+"
+    assert by_name["Kaskade"]["url"] == "https://dice.fm/event/kaskade"
+    assert by_name["Fisher"]["date"] == "2026-09-26"

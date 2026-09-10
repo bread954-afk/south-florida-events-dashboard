@@ -16,7 +16,7 @@ ARENA_COLLECTORS = {
 
 NIGHTLIFE_COLLECTORS = {
     "hardrock_nightlife", "liv", "eleven", "club_space", "factory_town",
-    "zeyzey", "kemistry", "backyard", "tin_roof",
+    "zeyzey", "kemistry", "backyard", "tin_roof", "insomniac_factory",
 }
 
 COMEDY_MUSIC_COLLECTORS = {

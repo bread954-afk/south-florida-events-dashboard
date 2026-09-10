@@ -687,34 +687,6 @@
   },
   {
     "date": "2026-09-11",
-    "time": "12:00 AM",
-    "name": "AYLA | Rooftop Live",
-    "venue": "Hard Rock DAER",
-    "city": "Davie",
-    "category": "Event",
-    "cost": "USD 0",
-    "url": "https://tixr.com/e/199491",
-    "source": "Hard Rock Nightlife / DAER",
-    "age": "",
-    "featured": false,
-    "new": true
-  },
-  {
-    "date": "2026-09-11",
-    "time": "12:00 AM",
-    "name": "BFKC After Party | DAER Nightclub",
-    "venue": "Hard Rock DAER",
-    "city": "Davie",
-    "category": "Nightlife / Party",
-    "cost": "Check source",
-    "url": "https://tixr.com/e/199484",
-    "source": "Hard Rock Nightlife / DAER",
-    "age": "",
-    "featured": false,
-    "new": true
-  },
-  {
-    "date": "2026-09-11",
     "time": "7:00 PM",
     "name": "BKFC 93",
     "venue": "Hard Rock Live",
@@ -870,20 +842,6 @@
   {
     "date": "2026-09-12",
     "time": "12:00 AM",
-    "name": "FETE Factory | Rooftop Live",
-    "venue": "Hard Rock DAER",
-    "city": "Davie",
-    "category": "Event",
-    "cost": "USD 40",
-    "url": "https://tixr.com/e/199497",
-    "source": "Hard Rock Nightlife / DAER",
-    "age": "",
-    "featured": false,
-    "new": true
-  },
-  {
-    "date": "2026-09-12",
-    "time": "12:00 AM",
     "name": "KREAM | DAER Dayclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -894,34 +852,6 @@
     "age": "",
     "featured": false,
     "new": false
-  },
-  {
-    "date": "2026-09-12",
-    "time": "12:00 AM",
-    "name": "KREAM | DAER Nightclub",
-    "venue": "Hard Rock DAER",
-    "city": "Davie",
-    "category": "Nightlife / Party",
-    "cost": "USD 40",
-    "url": "https://tixr.com/e/197438",
-    "source": "Hard Rock Nightlife / DAER",
-    "age": "",
-    "featured": false,
-    "new": true
-  },
-  {
-    "date": "2026-09-12",
-    "time": "12:00 AM",
-    "name": "Pinto | DAER Dayclub",
-    "venue": "Hard Rock DAER",
-    "city": "Davie",
-    "category": "Event",
-    "cost": "USD 0",
-    "url": "https://tixr.com/e/206470",
-    "source": "Hard Rock Nightlife / DAER",
-    "age": "",
-    "featured": false,
-    "new": true
   },
   {
     "date": "2026-09-12",
@@ -1146,20 +1076,6 @@
     "age": "",
     "featured": false,
     "new": false
-  },
-  {
-    "date": "2026-09-13",
-    "time": "12:00 AM",
-    "name": "Gameday Watch Party | DAER Dayclub",
-    "venue": "Hard Rock DAER",
-    "city": "Davie",
-    "category": "Nightlife / Party",
-    "cost": "USD 0",
-    "url": "https://tixr.com/e/206602",
-    "source": "Hard Rock Nightlife / DAER",
-    "age": "",
-    "featured": false,
-    "new": true
   },
   {
     "date": "2026-09-13",
@@ -1872,20 +1788,6 @@
     "url": "https://www.eventbrite.com/e/926-noche-de-fuego-munchies-fort-lauderdale-tickets-1997225758006",
     "source": "Eventbrite / Organizer",
     "age": "18+",
-    "featured": false,
-    "new": true
-  },
-  {
-    "date": "2026-09-26",
-    "time": "12:00 AM",
-    "name": "ROCKAZ | DAER Nightclub",
-    "venue": "Hard Rock DAER",
-    "city": "Davie",
-    "category": "Nightlife / Party",
-    "cost": "USD 40",
-    "url": "https://tixr.com/e/199483",
-    "source": "Hard Rock Nightlife / DAER",
-    "age": "",
     "featured": false,
     "new": true
   },

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>Broward Events Radar — Expanded</title>
+<title>Broward Events Radar — Sep–Dec 2026</title>
 <style>
 :root{--bg:#061019;--panel:#0d1825;--panel2:#122236;--text:#f8fafc;--muted:#9fb0c3;--line:#223b55;--blue:#38bdf8;--green:#86efac;--gold:#fde68a;--red:#fda4af}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 15% 0%,rgba(56,189,248,.09),transparent 25%),#061019;color:var(--text);font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif}
 .wrap{max-width:1500px;margin:auto;padding:20px}.hero{display:flex;justify-content:space-between;gap:18px;align-items:flex-end;flex-wrap:wrap;padding:22px 4px}
 .kicker{font-size:12px;color:#7dd3fc;text-transform:uppercase;letter-spacing:.18em;font-weight:900}h1{font-size:clamp(36px,5vw,68px);margin:6px 0 8px;line-height:.95;letter-spacing:-.05em}.sub{color:var(--muted);max-width:820px;line-height:1.55}
 .live{background:rgba(134,239,172,.08);border:1px solid rgba(134,239,172,.22);border-radius:999px;padding:10px 13px;font-size:13px;color:#dcfce7;font-weight:800}.hero-actions{display:flex;gap:9px;align-items:center;flex-wrap:wrap;justify-content:flex-end}.home-btn{display:inline-flex;align-items:center;min-height:40px;padding:0 13px;border-radius:999px;border:1px solid var(--line);background:#102135;color:#dbeafe;text-decoration:none;font-weight:900;font-size:13px}.home-btn:hover{border-color:var(--blue);color:#fff}
-.toolbar{display:grid;grid-template-columns:2fr repeat(3,minmax(150px,1fr)) auto;gap:9px;background:var(--panel);padding:12px;border:1px solid var(--line);border-radius:18px;position:sticky;top:8px;z-index:10}
+.toolbar{display:grid;grid-template-columns:2fr repeat(4,minmax(140px,1fr)) auto;gap:9px;background:var(--panel);padding:12px;border:1px solid var(--line);border-radius:18px;position:sticky;top:8px;z-index:10}
 input,select,button{min-height:45px;border-radius:11px;border:1px solid var(--line);background:#091522;color:var(--text);padding:0 12px;font:inherit}button{cursor:pointer;font-weight:800}.quick{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.chip{background:#102135;border:1px solid var(--line);color:#dbeafe;padding:9px 12px;min-height:auto}.chip.active{background:var(--blue);color:#03141c}
 .stats{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:14px 0}.stat{background:linear-gradient(180deg,#0e1b2a,#09131f);border:1px solid var(--line);border-radius:17px;padding:15px}.stat span{display:block;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.09em;font-weight:800}.stat b{font-size:28px;margin-top:7px;display:block}
 .grid{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(360px,.8fr);gap:14px}.panel{background:rgba(13,24,37,.97);border:1px solid var(--line);border-radius:20px;overflow:hidden}.head{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:15px 17px;border-bottom:1px solid var(--line)}.head h2{margin:0;font-size:18px}.head small{color:var(--muted)}
@@ -23,6 +23,12 @@ input,select,button{min-height:45px;border-radius:11px;border:1px solid var(--li
 <div class="hero"><div><div class="kicker">Broward County • Full Audit & Expanded</div><h1>Events Radar</h1><div class="sub">Parties, concerts, comedy, sports, day parties, nightlife, food, festivals, free events and premium experiences. Now pulling from major venues plus clubs, promoters and ticket platforms.</div></div><div class="hero-actions"><a class="home-btn" href="index.html">← Home</a><div class="live">● Live • <span id="lastUpdated">Last updated after next sync</span></div></div></div>
 <div class="toolbar">
 <input id="search" type="search" placeholder="Search artist, event, venue, city, source…"/>
+<select id="month" aria-label="Month">
+  <option value="2026-09">September 2026</option>
+  <option value="2026-10">October 2026</option>
+  <option value="2026-11">November 2026</option>
+  <option value="2026-12">December 2026</option>
+</select>
 <select id="city"><option value="">All cities</option></select>
 <select id="cat"><option value="">All categories</option></select>
 <select id="price"><option value="">All price levels</option><option value="free">Free</option><option value="paid">Paid / Ticketed</option></select>
@@ -31,10 +37,11 @@ input,select,button{min-height:45px;border-radius:11px;border:1px solid var(--li
 <div class="quick"><button class="chip active" data-mode="all">All month</button><button class="chip" data-mode="week">This week</button><button class="chip" data-mode="weekend">This weekend</button><button class="chip" data-mode="new">Newly added</button><button class="chip" data-mode="featured">Featured</button><button class="chip" data-mode="favorites">★ Favorites</button></div>
 <div class="stats"><div class="stat"><span>Events shown</span><b id="count">0</b></div><div class="stat"><span>This week</span><b id="weekCount">0</b></div><div class="stat"><span>Free</span><b id="freeCount">0</b></div><div class="stat"><span>Sources</span><b id="sourceCount">0</b></div><div class="stat"><span>Selected day</span><b id="sel">All</b></div></div>
 <div class="grid">
-<section class="panel"><div class="head"><div><h2>September 2026</h2><small>Tap a date to focus the event feed</small></div><small id="status"></small></div><div class="scroll"><div class="week"><div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div></div><div id="cal" class="cal"></div></div></section>
+<section class="panel"><div class="head"><div><h2 id="monthHeading">September 2026</h2><small>Tap a date to focus the event feed</small></div><small id="status"></small></div><div class="scroll"><div class="week"><div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div></div><div id="cal" class="cal"></div></div></section>
 <aside class="panel side"><div class="head"><div><h2 id="title">All events</h2><small id="results"></small></div></div><div id="list" class="list"></div></aside>
 </div><nav class="mobile-nav" aria-label="Mobile event filters"><button class="mobile-mode active" data-mode="all">All</button><button class="mobile-mode" data-mode="week">This Week</button><button class="mobile-mode" data-mode="favorites">★ Favorites</button></nav></div>
 <script src="calendar.js"></script>
+<script src="dashboard-months.js"></script>
 <script>
 let events=[];
 const DATA_URL="broward-events.json";
@@ -57,8 +64,9 @@ async function loadLastUpdated(){
   setLastUpdatedText(`Last updated ${shown}`);
  }catch(err){console.warn('Could not load last-updated timestamp',err);setLastUpdatedText('Last updated after next sync')}
 }
-const search=document.getElementById('search'),city=document.getElementById('city'),cat=document.getElementById('cat'),price=document.getElementById('price'),cal=document.getElementById('cal'),list=document.getElementById('list');
-let selectedDay=null,mode='all'; const todayDay=2;
+const search=document.getElementById('search'),month=document.getElementById('month'),city=document.getElementById('city'),cat=document.getElementById('cat'),price=document.getElementById('price'),cal=document.getElementById('cal'),list=document.getElementById('list');
+let selectedDay=null,mode='all',selectedMonth=SFMonths.defaultMonth(new Date());
+month.value=selectedMonth;
 const uniq=a=>[...new Set(a)].sort((a,b)=>a.localeCompare(b));
 const esc=s=>String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 async function boot(){
@@ -69,13 +77,21 @@ try{
  events=await r.json();
 uniq(events.map(e=>e.city)).forEach(v=>city.insertAdjacentHTML('beforeend',`<option>${esc(v)}</option>`)); uniq(events.map(e=>e.category)).forEach(v=>cat.insertAdjacentHTML('beforeend',`<option>${esc(v)}</option>`));
 function isFree(e){return /free/i.test(e.cost||'')}
+function monthEvents(){return events.filter(e=>SFMonths.eventInMonth(e.date,selectedMonth))}
 function base(){
  const q=search.value.trim().toLowerCase();
- return events.filter(e=>(!city.value||e.city===city.value)&&(!cat.value||e.category===cat.value)&&(!price.value||(price.value==='free'?isFree(e):!isFree(e)))&&(!q||[e.name,e.venue,e.city,e.category,e.source,e.cost].join(' ').toLowerCase().includes(q)));
+ return monthEvents().filter(e=>(!city.value||e.city===city.value)&&(!cat.value||e.category===cat.value)&&(!price.value||(price.value==='free'?isFree(e):!isFree(e)))&&(!q||[e.name,e.venue,e.city,e.category,e.source,e.cost].join(' ').toLowerCase().includes(q)));
 }
 function modeFilter(arr){
- if(mode==='week') return arr.filter(e=>{let d=+e.date.slice(-2);return d>=2&&d<=8});
- if(mode==='weekend') return arr.filter(e=>{let d=+e.date.slice(-2);return d>=4&&d<=7});
+ const now=new Date();
+ if(mode==='week'){
+  const keys=new Set(SFMonths.currentWeekDateKeys(now));
+  return arr.filter(e=>keys.has(e.date));
+ }
+ if(mode==='weekend'){
+  const keys=new Set(SFMonths.currentWeekendDateKeys(now));
+  return arr.filter(e=>keys.has(e.date));
+ }
  if(mode==='new') return arr.filter(e=>e.new);
  if(mode==='featured') return arr.filter(e=>e.featured);
  if(mode==='favorites') return arr.filter(e=>isFavorite(e));
@@ -83,27 +99,43 @@ function modeFilter(arr){
 }
 function filtered(){let a=modeFilter(base());if(selectedDay)a=a.filter(e=>+e.date.slice(-2)===selectedDay);return a.sort((a,b)=>a.date.localeCompare(b.date)||a.time.localeCompare(b.time)||a.name.localeCompare(b.name))}
 function renderCal(){
- let arr=modeFilter(base());let h='<div class="day blank"></div><div class="day blank"></div>';
- for(let d=1;d<=30;d++){let es=arr.filter(e=>+e.date.slice(-2)===d);let cls=['day'];if(d===selectedDay)cls.push('active');if(d===todayDay)cls.push('today');h+=`<button class="${cls.join(' ')}" data-d="${d}"><span class="num">${d}</span>${es.slice(0,4).map(e=>`<span class="evt ${e.featured?'hot':''} ${e.new?'new':''}" title="${esc(e.name)}">${esc(e.name)}</span>`).join('')}${es.length>4?`<span class="evt">+${es.length-4} more</span>`:''}</button>`}cal.innerHTML=h;cal.querySelectorAll('[data-d]').forEach(b=>b.onclick=()=>{let d=+b.dataset.d;selectedDay=selectedDay===d?null:d;render()})
+ const arr=modeFilter(base()),meta=SFMonths.monthMeta(selectedMonth),now=new Date();
+ let h='';
+ for(let i=0;i<meta.firstWeekday;i++)h+='<div class="day blank"></div>';
+ for(let d=1;d<=meta.days;d++){
+  const es=arr.filter(e=>+e.date.slice(-2)===d),cls=['day'];
+  if(d===selectedDay)cls.push('active');
+  if(SFMonths.sameMonth(now,selectedMonth)&&d===now.getDate())cls.push('today');
+  h+=`<button class="${cls.join(' ')}" data-d="${d}"><span class="num">${d}</span>${es.slice(0,4).map(e=>`<span class="evt ${e.featured?'hot':''} ${e.new?'new':''}" title="${esc(e.name)}">${esc(e.name)}</span>`).join('')}${es.length>4?`<span class="evt">+${es.length-4} more</span>`:''}</button>`;
+ }
+ cal.innerHTML=h;
+ cal.querySelectorAll('[data-d]').forEach(b=>b.onclick=()=>{const d=+b.dataset.d;selectedDay=selectedDay===d?null:d;render()});
 }
 function syncModeControls(){document.querySelectorAll('.chip,.mobile-mode').forEach(x=>x.classList.toggle('active',x.dataset.mode===mode))}
 function render(){
  syncModeControls();
- const f=filtered(), all=events;
+ const f=filtered(),scoped=base(),meta=SFMonths.monthMeta(selectedMonth),weekKeys=new Set(SFMonths.currentWeekDateKeys(new Date()));
+ document.getElementById('monthHeading').textContent=meta.label;
  document.getElementById('count').textContent=f.length;
- document.getElementById('weekCount').textContent=all.filter(e=>{let d=+e.date.slice(-2);return d>=2&&d<=8}).length;
+ document.getElementById('weekCount').textContent=scoped.filter(e=>weekKeys.has(e.date)).length;
  document.getElementById('freeCount').textContent=f.filter(isFree).length;
  document.getElementById('sourceCount').textContent=uniq(f.map(e=>e.source)).length;
  document.getElementById('sel').textContent=selectedDay||'All';
- document.getElementById('title').textContent=selectedDay?`September ${selectedDay}`:(mode==='week'?'This week':mode==='weekend'?'This weekend':mode==='new'?'Newly added':mode==='featured'?'Featured events':mode==='favorites'?'Favorite events':'All events');
+ document.getElementById('title').textContent=selectedDay?`${meta.label.replace(' 2026','')} ${selectedDay}`:(mode==='week'?'This week':mode==='weekend'?'This weekend':mode==='new'?'Newly added':mode==='featured'?'Featured events':mode==='favorites'?'Favorite events':'All events');
  document.getElementById('results').textContent=`${f.length} matching events`;
  document.getElementById('status').textContent=`${modeFilter(base()).length} events on calendar`;
- list.innerHTML=f.length?f.map(e=>`<article class="card">${e.new?'<div class="newb">NEWLY ADDED</div>':''}<div class="top"><h3>${esc(e.name)}</h3><div class="card-tools"><button class="fav-btn ${isFavorite(e)?'active':''}" data-fav-key="${esc(eventKey(e))}" aria-label="${isFavorite(e)?'Remove from favorites':'Add to favorites'}" title="${isFavorite(e)?'Remove from favorites':'Add to favorites'}">${isFavorite(e)?'★':'☆'}</button><span class="badge">${esc(e.category)}</span></div></div><div class="meta"><b>${esc(e.date.slice(5).replace('-','/'))} • ${esc(e.time)}</b><br><span class="muted">${esc(e.venue)} • ${esc(e.city)}</span>${e.age?`<br>${esc(e.age)}`:''}<br><span class="price">${esc(e.cost)}</span><br><span class="source">Source: ${esc(e.source)}</span></div><div class="card-actions"><a class="btn" href="${esc(e.url)}" target="_blank" rel="noopener noreferrer">Event / Tickets ↗</a><button class="calendar-btn" data-cal-key="${esc(eventKey(e))}" type="button">📅 Add to Calendar</button></div></article>`).join(''):'<div class="empty">No matching events.</div>';
+ const emptyText=monthEvents().length===0?'No events found yet — check back as new events are announced.':'No matching events.';
+ list.innerHTML=f.length?f.map(e=>`<article class="card">${e.new?'<div class="newb">NEWLY ADDED</div>':''}<div class="top"><h3>${esc(e.name)}</h3><div class="card-tools"><button class="fav-btn ${isFavorite(e)?'active':''}" data-fav-key="${esc(eventKey(e))}" aria-label="${isFavorite(e)?'Remove from favorites':'Add to favorites'}" title="${isFavorite(e)?'Remove from favorites':'Add to favorites'}">${isFavorite(e)?'★':'☆'}</button><span class="badge">${esc(e.category)}</span></div></div><div class="meta"><b>${esc(e.date.slice(5).replace('-','/'))} • ${esc(e.time)}</b><br><span class="muted">${esc(e.venue)} • ${esc(e.city)}</span>${e.age?`<br>${esc(e.age)}`:''}<br><span class="price">${esc(e.cost)}</span><br><span class="source">Source: ${esc(e.source)}</span></div><div class="card-actions"><a class="btn" href="${esc(e.url)}" target="_blank" rel="noopener noreferrer">Event / Tickets ↗</a><button class="calendar-btn" data-cal-key="${esc(eventKey(e))}" type="button">📅 Add to Calendar</button></div></article>`).join(''):`<div class="empty">${emptyText}</div>`;
  list.querySelectorAll('.fav-btn').forEach(btn=>btn.onclick=()=>{toggleFavoriteKey(btn.dataset.favKey);render()});
  list.querySelectorAll('.calendar-btn').forEach(btn=>btn.onclick=()=>{const event=f.find(e=>eventKey(e)===btn.dataset.calKey);if(event)SFCalendar.downloadEvent(event)});
  renderCal();
 }
 [search,city,cat,price].forEach(x=>x.addEventListener(x===search?'input':'change',()=>{selectedDay=null;render()}));
+month.addEventListener('change',()=>{
+ selectedMonth=month.value;
+ selectedDay=null;
+ render();
+});
 document.getElementById('clear').onclick=()=>{search.value='';city.value='';cat.value='';price.value='';selectedDay=null;mode='all';syncModeControls();render()};
 document.querySelectorAll('.chip,.mobile-mode').forEach(c=>c.onclick=()=>{mode=c.dataset.mode;selectedDay=null;syncModeControls();render()});
 render();

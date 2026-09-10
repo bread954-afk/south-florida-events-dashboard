@@ -20,10 +20,10 @@ In GitHub open **Actions → Update South Florida events → Run workflow**.
 
 ## Log meanings
 
-- `[OK] Source: N events` — source completed normally.
-- `[WARN] Source: ...` — source failed, timed out, or changed markup; the rest of the update continues.
-- `[SKIP] Source: disabled` — intentionally disabled public source.
-- `[DONE] broward: before -> after` / `[DONE] miami: before -> after` — county merge completed.
+- `[OK] County YYYY-MM / Source: N events` — source completed normally for that tracked month.
+- `[WARN] County YYYY-MM / Source: ...` — source failed, timed out, changed markup, or unexpectedly returned zero; the rest of the update continues.
+- `[SKIP] County YYYY-MM / Source: disabled` — intentionally disabled public source.
+- `[DONE] broward: before -> after; months=...` / `[DONE] miami: before -> after; months=...` — county merge completed after all tracked months.
 
 A failed source never deletes existing curated events. New discoveries are merged into the existing JSON files.
 
@@ -66,3 +66,26 @@ The updater does not bypass CAPTCHAs, authentication, access controls, or rate l
 ## Restore event data
 
 If an event JSON file ever needs to be rolled back, open that file in GitHub, use **History**, choose the last good commit, and restore that version. The updater's merge and validation guards are designed to prevent destructive count drops before they reach the live dashboard.
+
+## Multi-month discovery window
+
+The scheduled updater keeps the current month and every remaining month through December 2026 fresh:
+
+- September run: September, October, November, December
+- October run: October, November, December
+- November run: November, December
+- December run: December
+- After December 2026: no event discovery months are scanned
+
+Completed months remain in `miami-events.json` and `broward-events.json`; a normal daily run does not rescrape them.
+
+Each county file is loaded once, all tracked months are collected with source-level failure isolation, discoveries are merged into the full archive, the full dataset is validated, and the file is written once.
+
+Month-aware logs look like:
+
+```text
+[OK] Miami 2026-10 / ZeyZey: 18 events
+[WARN] Miami 2026-11 / Resident Advisor: blocked: challenge page
+[OK] Broward 2026-12 / Amerant Bank Arena: 7 events
+[DONE] miami: 250 -> 338; months=2026-09,2026-10,2026-11,2026-12; warnings=2
+```
