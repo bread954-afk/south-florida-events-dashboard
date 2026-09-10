@@ -202,7 +202,8 @@
       "county": "miami",
       "collector": "zeyzey",
       "default_city": "Little River",
-      "browser_fallback": false
+      "browser_fallback": true,
+      "warn_on_empty": true
     },
     {
       "name": "Miami Improv",
@@ -242,7 +243,19 @@
       "county": "miami",
       "collector": "factory_town",
       "default_city": "Miami",
-      "browser_fallback": true
+      "browser_fallback": true,
+      "warn_on_empty": true
+    },
+    {
+      "name": "Factory Town / Insomniac",
+      "url": "https://www.insomniac.com/events/our-world/factory-town/",
+      "county": "miami",
+      "collector": "insomniac_factory",
+      "default_city": "Miami",
+      "default_venue": "Factory Town",
+      "browser_fallback": false,
+      "enabled": true,
+      "warn_on_empty": true
     },
     {
       "name": "Coral Gables Events",
@@ -292,7 +305,20 @@
       "collector": "resident_advisor",
       "default_city": "Miami",
       "browser_fallback": true,
-      "enabled": true
+      "enabled": true,
+      "warn_on_empty": true
+    },
+    {
+      "name": "Shotgun Miami",
+      "url": "https://r.shotgun.live/en/cities/miami",
+      "county": "miami",
+      "collector": "shotgun",
+      "default_city": "Miami",
+      "default_category": "Nightlife / Event",
+      "browser_fallback": false,
+      "enabled": true,
+      "max_pages": 15,
+      "warn_on_empty": true
     },
     {
       "name": "Eventbrite Miami",
