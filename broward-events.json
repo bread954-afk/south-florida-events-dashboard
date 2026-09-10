@@ -912,6 +912,20 @@
   {
     "date": "2026-09-12",
     "time": "12:00 AM",
+    "name": "Pinto | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/206470",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-12",
+    "time": "12:00 AM",
     "name": "Saturday, September 12th | DAER Dayclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -1146,6 +1160,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-09-13",
+    "time": "12:00 AM",
+    "name": "Gameday Watch Party | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/206602",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-09-13",

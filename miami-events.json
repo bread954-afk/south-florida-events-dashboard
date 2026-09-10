@@ -1271,7 +1271,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-11",
@@ -1299,6 +1299,20 @@
     "source": "LIV Nightclub",
     "age": "21+",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-11",
+    "time": "1:30 PM",
+    "name": "Flamenco for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/flamenco-for-seniors-2/2026-09-11/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -1425,7 +1439,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-11",
@@ -1439,7 +1453,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-11",
@@ -1452,6 +1466,20 @@
     "url": "https://www.11miami.com/events",
     "source": "E11EVEN Miami",
     "age": "21+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-12",
+    "time": "10:00 AM",
+    "name": "3D Printing Basics at Moonlighter FabLab",
+    "venue": "Moonlighter FabLab",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/3d-printing-basics-at-moonlighter-fablab/2026-09-12/",
+    "source": "Miami Beach Events",
+    "age": "",
     "featured": false,
     "new": true
   },
@@ -1956,6 +1984,20 @@
     "url": "https://www.livnightclub.com/miami/events/",
     "source": "LIV Nightclub",
     "age": "21+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-17",
+    "time": "6:30 PM",
+    "name": "FilmGate Music Videos Festival 2026",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Festival",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/filmgate-music-videos-festival-2026/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
     "featured": false,
     "new": true
   },
