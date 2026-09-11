@@ -1019,7 +1019,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-11",
@@ -1089,7 +1089,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-11",
@@ -1201,7 +1201,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-11",
@@ -1243,7 +1243,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-11",
@@ -1271,7 +1271,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-12",
@@ -1382,6 +1382,20 @@
     "url": "https://www.livnightclub.com/miami/events/",
     "source": "LIV Nightclub",
     "age": "21+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-12",
+    "time": "1:00 PM",
+    "name": "Floral Design Workshops",
+    "venue": "Various locations",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/floral-design-workshops-2-2/2026-09-12/",
+    "source": "Miami Beach Events",
+    "age": "",
     "featured": false,
     "new": true
   },
@@ -2279,7 +2293,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-19",
@@ -2559,7 +2573,7 @@
     "source": "Factory Town / Insomniac",
     "age": "All Ages",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-19",
@@ -2568,12 +2582,12 @@
     "venue": "Factory Town",
     "city": "Miami",
     "category": "Concert / Electronic",
-    "cost": "Ticketed",
+    "cost": "Waitlist",
     "url": "https://dice.fm/partner/tickets/event/dkpqoq-its-murph-19th-sep-factory-town-miami-tickets",
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-19",
@@ -2769,7 +2783,7 @@
     "source": "Factory Town / Insomniac",
     "age": "All Ages",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-21",
@@ -3133,7 +3147,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-26",
@@ -3399,7 +3413,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-27",
@@ -3679,7 +3693,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-02",
@@ -3693,7 +3707,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-03",
@@ -3707,7 +3721,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-04",
@@ -3721,7 +3735,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-09",
@@ -3735,7 +3749,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-10",
@@ -3749,7 +3763,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-13",
@@ -3763,7 +3777,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-14",
@@ -3777,6 +3791,6 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   }
 ]
