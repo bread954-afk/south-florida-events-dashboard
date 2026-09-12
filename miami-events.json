@@ -1397,7 +1397,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-12",
@@ -1507,6 +1507,20 @@
     "cost": "$19.04",
     "url": "https://www.eventbrite.com/e/bling-bling-bedazzling-night-at-steamy-lit-september-2026-miami-tickets-1998931523998",
     "source": "Eventbrite / Steamy Lit",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-12",
+    "time": "7:00 PM",
+    "name": "Mari Froes at The Bandshell",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/mari-froes-at-the-bandshell/",
+    "source": "Miami Beach Events",
     "age": "",
     "featured": false,
     "new": true
@@ -1695,6 +1709,20 @@
   },
   {
     "date": "2026-09-13",
+    "time": "5:00 PM",
+    "name": "The Ocean Drive Promenade Music Series",
+    "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-09-13/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-13",
     "time": "5:00 PM - 6:00 PM",
     "name": "Ocean Drive Promenade Music Series",
     "venue": "Ocean Drive",
@@ -1703,6 +1731,20 @@
     "cost": "Free",
     "url": "https://events.miamibeachfl.gov/events/month/2026-09/",
     "source": "City of Miami Beach",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-13",
+    "time": "6:00 PM",
+    "name": "Cuerda &#038; Clave at The Betsy Piano Bar",
+    "venue": "betsey hotel",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-09-13/",
+    "source": "Miami Beach Events",
     "age": "",
     "featured": false,
     "new": true
@@ -1761,6 +1803,20 @@
     "source": "Miami Improv",
     "age": "21+ unless otherwise stated",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-13",
+    "time": "9:00 AM",
+    "name": "Lincoln Road Farmer&#8217;s Market",
+    "venue": "Lenox Avenue &#038; Lincoln Road",
+    "city": "Miami Beach",
+    "category": "Market",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-09-13/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
