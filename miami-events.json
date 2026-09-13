@@ -1719,7 +1719,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-13",
@@ -1747,7 +1747,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-13",
@@ -1817,7 +1817,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-13",
@@ -1844,6 +1844,20 @@
     "url": "https://www.11miami.com/events",
     "source": "E11EVEN Miami",
     "age": "21+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-14",
+    "time": "10:00 AM",
+    "name": "Tai Chi Ruler for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2-2/2026-09-14/",
+    "source": "Miami Beach Events",
+    "age": "",
     "featured": false,
     "new": true
   },
@@ -1887,6 +1901,34 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-14",
+    "time": "9:00 AM",
+    "name": "Special Magistrate Hearings",
+    "venue": "City Hall Commission Chamber",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/special-magistrate-hearings-3/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-14",
+    "time": "9:00 AM",
+    "name": "Tai Chi for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2-2/2026-09-14/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
