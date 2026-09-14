@@ -1859,6 +1859,48 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-09-14",
+    "time": "10:30 AM",
+    "name": "Calisthenics for Seniors (UN)",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/calisthenics-un-2-2-2/2026-09-14/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-14",
+    "time": "10:30 AM",
+    "name": "Moonlighter FabLab: Homeschool STEAM Sessions &#8211; 2026-2027",
+    "venue": "Moonlighter FabLab",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2026-09-14/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-14",
+    "time": "12:00 PM",
+    "name": "Water Aerobics (FL)",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl/2026-09-14/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -1915,7 +1957,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-14",
@@ -1929,7 +1971,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-14",
