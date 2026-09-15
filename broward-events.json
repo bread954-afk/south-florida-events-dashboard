@@ -1332,6 +1332,20 @@
   {
     "date": "2026-09-18",
     "time": "12:00 AM",
+    "name": "AYLA 9/18 | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/199492",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-18",
+    "time": "12:00 AM",
     "name": "Omnom | DAER Nightclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -1765,6 +1779,20 @@
   },
   {
     "date": "2026-09-25",
+    "time": "12:00 AM",
+    "name": "AYLA 9/25 | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/199493",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-25",
     "time": "5:00 PM - 8:00 PM",
     "name": "Founding Families Fall Festival",
     "venue": "Historic Stranahan House",
@@ -1888,6 +1916,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-09-26",
+    "time": "12:00 AM",
+    "name": "Viva Peru | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 20",
+    "url": "https://tixr.com/e/206930",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-09-26",
@@ -2170,6 +2212,20 @@
     "new": false
   },
   {
+    "date": "2026-10-10",
+    "time": "12:00 AM",
+    "name": "Gorgon City | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/202009",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-10-11",
     "time": "12:00 AM",
     "name": "Level Up | DAER Dayclub",
@@ -2266,6 +2322,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-31",
+    "time": "12:00 AM",
+    "name": "LASZEWO - Halloween | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/204542",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-01",
