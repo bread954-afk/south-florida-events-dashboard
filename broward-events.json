@@ -1341,7 +1341,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-18",
@@ -1495,6 +1495,20 @@
     "source": "Revolution Live",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-19",
+    "time": "12:00 AM",
+    "name": "Country Saturday | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 20",
+    "url": "https://tixr.com/e/199498",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -1654,6 +1668,20 @@
   {
     "date": "2026-09-20",
     "time": "12:00 AM",
+    "name": "Gameday Watch Party | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/199439",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-20",
+    "time": "12:00 AM",
     "name": "JEAN CARLOS CENTENO &amp; RONAL URBINA | DAER Dayclub Afterdark",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -1786,6 +1814,20 @@
     "category": "Event",
     "cost": "USD 0",
     "url": "https://tixr.com/e/199493",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-09-25",
+    "time": "12:00 AM",
+    "name": "Alex Sensation | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/199487",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
@@ -1929,7 +1971,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-26",
@@ -2223,7 +2265,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-11",
@@ -2238,6 +2280,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-17",
+    "time": "12:00 AM",
+    "name": "Ian Asher | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/202011",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-17",
@@ -2327,6 +2383,20 @@
     "date": "2026-10-31",
     "time": "12:00 AM",
     "name": "LASZEWO - Halloween | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/204542",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-31",
+    "time": "12:00 AM",
+    "name": "ŁASZEWO - Halloween | DAER Nightclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",

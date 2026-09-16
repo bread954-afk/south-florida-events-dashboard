@@ -2143,6 +2143,62 @@
   },
   {
     "date": "2026-09-16",
+    "time": "10:00 AM",
+    "name": "Tai Chi Ruler for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2-2/2026-09-16/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-16",
+    "time": "10:30 AM",
+    "name": "Calisthenics for Seniors (UN)",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/calisthenics-un-2-2-2/2026-09-16/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-16",
+    "time": "10:30 AM",
+    "name": "Moonlighter FabLab :",
+    "venue": "Moonlighter FabLab",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/moonlighter-fablab/2026-09-16/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-16",
+    "time": "12:00 PM",
+    "name": "Water Aerobics (FL)",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl/2026-09-16/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-16",
     "time": "8:30 PM",
     "name": "Rosalía — LUX Tour 2026",
     "venue": "Kaseya Center",
@@ -2153,6 +2209,34 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-16",
+    "time": "9:00 AM",
+    "name": "Pre-Bid Meeting for ITB 2026-612-ND",
+    "venue": "Microsoft Team Meeting/Public Meeting",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/pre-bid-meeting-for-itb-2026-612-nd/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-16",
+    "time": "9:00 AM",
+    "name": "Tai Chi for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2-2/2026-09-16/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -4029,6 +4113,6 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   }
 ]
