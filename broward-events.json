@@ -1509,7 +1509,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-19",
@@ -1677,7 +1677,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-20",
@@ -1831,7 +1831,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-25",
@@ -1942,6 +1942,20 @@
     "url": "https://www.eventbrite.com/e/926-noche-de-fuego-munchies-fort-lauderdale-tickets-1997225758006",
     "source": "Eventbrite / Organizer",
     "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-26",
+    "time": "12:00 AM",
+    "name": "Melanie Fiona | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/199483",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
     "featured": false,
     "new": true
   },
@@ -2293,7 +2307,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-17",
@@ -2405,7 +2419,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-01",
