@@ -2913,6 +2913,34 @@
   },
   {
     "date": "2026-09-19",
+    "time": "7:30 PM",
+    "name": "Don Pasquale &#8211; Opera by G. Donizett",
+    "venue": "Emanuel Luxury Venue Miami Beach, FL",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/don-pasquale-opera-by-g-donizett/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-19",
+    "time": "7:30 PM",
+    "name": "Don Pasquale &#8211; Opera by G. Donizetti",
+    "venue": "Emanuel Luxury Venue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/don-pasquale-opera-by-g-donizetti/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-19",
     "time": "8:00 AM - 10:00 AM",
     "name": "Clean Miami Beach: Julia Tuttle Causeway Cleanup",
     "venue": "Julia Tuttle Causeway",
@@ -2993,7 +3021,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-19",
@@ -3095,6 +3123,20 @@
   },
   {
     "date": "2026-09-20",
+    "time": "11:00 AM",
+    "name": "Senior Family Day",
+    "venue": "Scott Rakow Youth Center &#8211; 2700 Sheridan Avenue",
+    "city": "Miami Beach",
+    "category": "Family",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/senior-family-day/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-20",
     "time": "11:30 PM",
     "name": "LIV ON SUNDAY",
     "venue": "LIV Nightclub at Fontainebleau",
@@ -3119,6 +3161,20 @@
     "source": "Miami-Dade County Department of Cultural Affairs",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-20",
+    "time": "5:00 PM",
+    "name": "The Ocean Drive Promenade Music Series",
+    "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-09-20/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -3217,6 +3273,20 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-20",
+    "time": "9:00 AM",
+    "name": "Lincoln Road Farmer&#8217;s Market",
+    "venue": "Lenox Avenue &#038; Lincoln Road",
+    "city": "Miami Beach",
+    "category": "Market",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-09-20/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -3963,20 +4033,6 @@
   },
   {
     "date": "2026-09-27",
-    "time": "7:00 PM",
-    "name": "Silvana Estrada",
-    "venue": "Miami Beach Bandshell",
-    "city": "Miami Beach",
-    "category": "Event",
-    "cost": "Ticketed",
-    "url": "https://miamibeachbandshell.com/event/silvana-estrada/",
-    "source": "Miami Beach Bandshell",
-    "age": "",
-    "featured": true,
-    "new": false
-  },
-  {
-    "date": "2026-09-27",
     "time": "7:30 PM",
     "name": "Poly Diaz En Español",
     "venue": "Miami Improv",
@@ -3988,6 +4044,20 @@
     "age": "21+ unless otherwise stated",
     "featured": true,
     "new": true
+  },
+  {
+    "date": "2026-09-27",
+    "time": "8:00 PM",
+    "name": "Silvana Estrada",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Ticketed",
+    "url": "https://miamibeachbandshell.com/event/silvana-estrada/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": true,
+    "new": false
   },
   {
     "date": "2026-09-27",
