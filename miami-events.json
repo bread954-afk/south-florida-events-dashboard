@@ -3133,7 +3133,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-20",
@@ -3175,7 +3175,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-20",
@@ -3187,6 +3187,34 @@
     "cost": "Free",
     "url": "https://events.miamibeachfl.gov/events/month/2026-09/",
     "source": "City of Miami Beach",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-20",
+    "time": "6:00 PM",
+    "name": "Cuerda &#038; Clave at The Betsy Piano Bar",
+    "venue": "betsey hotel",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-09-20/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-20",
+    "time": "6:00 PM",
+    "name": "Miami Beach Baila! by Commissioner Joe Magazine",
+    "venue": "Andres Carne de Res",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/miami-beach-baila-by-commissioner-joe-magazine/",
+    "source": "Miami Beach Events",
     "age": "",
     "featured": false,
     "new": true
@@ -3287,7 +3315,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-20",
@@ -3341,6 +3369,20 @@
     "cost": "Free entry / food & drinks extra",
     "url": "https://wynwoodmiami.com/events/month/2026-09/",
     "source": "Wynwood BID",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-21",
+    "time": "9:00 AM",
+    "name": "Tai Chi for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2-2/2026-09-21/",
+    "source": "Miami Beach Events",
     "age": "",
     "featured": false,
     "new": true
