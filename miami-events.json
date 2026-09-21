@@ -3361,6 +3361,76 @@
   },
   {
     "date": "2026-09-21",
+    "time": "10:00 AM",
+    "name": "Tai Chi Ruler for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2-2/2026-09-21/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-21",
+    "time": "10:30 AM",
+    "name": "Calisthenics for Seniors (UN)",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/calisthenics-un-2-2-2/2026-09-21/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-21",
+    "time": "10:30 AM",
+    "name": "Moonlighter FabLab: Homeschool STEAM Sessions &#8211; 2026-2027",
+    "venue": "Moonlighter FabLab",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/homeschool-steam-sessions-2026-2027/2026-09-21/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-21",
+    "time": "12:00 PM",
+    "name": "Water Aerobics (FL)",
+    "venue": "Flamingo Park Pool",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl-2/2026-09-21/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-21",
+    "time": "12:00 PM",
+    "name": "Water Aerobics (FL)",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl/2026-09-21/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-21",
     "time": "8:00 PM",
     "name": "Monday Night Football at Grails Miami",
     "venue": "Grails Miami",
@@ -3385,7 +3455,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-21",
@@ -3656,6 +3726,20 @@
   {
     "date": "2026-09-25",
     "time": "8:00 PM",
+    "name": "Arly Larivière",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0064989005C8A9?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=arly-lariviere_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-25",
+    "time": "8:00 PM",
     "name": "Arly Larivière — Konpa En Symphony",
     "venue": "Kaseya Center",
     "city": "Downtown Miami",
@@ -3865,6 +3949,20 @@
   },
   {
     "date": "2026-09-26",
+    "time": "1:00 PM",
+    "name": "Kaseya Center All-Access Tour",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Sports",
+    "cost": "Check source",
+    "url": "https://www.universe.com/events/kaseya-center-all-access-tour-tickets-J2H8C4",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-26",
     "time": "6:00 PM",
     "name": "Misfits Boxing",
     "venue": "James L. Knight Center",
@@ -3931,6 +4029,20 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-26",
+    "time": "8:00 PM",
+    "name": "aespa",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0064940F3C61C3?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=aespa_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -4312,6 +4424,20 @@
     "new": false
   },
   {
+    "date": "2026-10-03",
+    "time": "8:00 PM",
+    "name": "Kany Garcia",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D006488B386B2C2?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=kany-garcia_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-10-04",
     "time": "6:00 PM",
     "name": "Florida Fellowship Super Choir",
@@ -4324,6 +4450,48 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-04",
+    "time": "8:00 PM",
+    "name": "Don Omar",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0064ADD895DB42?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=don-omar_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-05",
+    "time": "7:30 PM",
+    "name": "Jonas Brothers",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00650C15C53D08?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=jonas-brothers_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-06",
+    "time": "6:30 PM",
+    "name": "Red, White & Pink Game",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0064FDD6DC869B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=rwp26&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-09",
