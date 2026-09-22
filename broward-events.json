@@ -2218,7 +2218,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Event",
-    "cost": "USD 40",
+    "cost": "USD 25",
     "url": "https://tixr.com/e/202003",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2350,6 +2350,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-30",
+    "time": "12:00 AM",
+    "name": "DJ Pauly D - Halloween Weekend | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/204541",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-30",
