@@ -2363,7 +2363,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-30",
@@ -2448,5 +2448,19 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-21",
+    "time": "12:00 AM",
+    "name": "Ely Oaks | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/206019",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   }
 ]
