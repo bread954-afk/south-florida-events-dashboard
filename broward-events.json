@@ -1957,7 +1957,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-26",
@@ -2232,7 +2232,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Event",
-    "cost": "USD 25",
+    "cost": "USD 20",
     "url": "https://tixr.com/e/202003",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2251,7 +2251,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-09",
@@ -2279,7 +2279,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-09",
@@ -2517,7 +2517,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-31",
@@ -2531,7 +2531,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-31",
@@ -2545,6 +2545,6 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   }
 ]

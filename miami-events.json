@@ -3893,6 +3893,20 @@
   },
   {
     "date": "2026-09-25",
+    "time": "10:00 AM",
+    "name": "Art Class for Seniors (UN) – Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/art-class-for-seniors-fri-2/2026-09-25/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-25",
     "time": "10:00 PM",
     "name": "Corey Holcomb",
     "venue": "Miami Improv",
@@ -3935,6 +3949,20 @@
   },
   {
     "date": "2026-09-25",
+    "time": "11:30 AM",
+    "name": "Miami Beach Visitor and Convention Authority Board",
+    "venue": "Miami Beach Convention Center",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/miami-beach-visitor-and-convention-authority-board/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-25",
     "time": "11:30 PM",
     "name": "Steve Aoki",
     "venue": "LIV Nightclub at Fontainebleau",
@@ -3945,6 +3973,34 @@
     "source": "LIV Nightclub",
     "age": "21+",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-25",
+    "time": "1:30 PM",
+    "name": "Flamenco for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/flamenco-for-seniors-2/2026-09-25/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-25",
+    "time": "3:00 PM",
+    "name": "Responses Due for ITB 2026-612-ND",
+    "venue": "Microsoft Team Meeting/Public Meeting",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/responses-due-for-itb-2026-612-nd/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -4033,6 +4089,20 @@
   },
   {
     "date": "2026-09-25",
+    "time": "9:00 AM",
+    "name": "Special Magistrate Hearings",
+    "venue": "City Hall Commission Chamber",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/special-magistrate-hearings-5/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-09-25",
     "time": "9:00 PM",
     "name": "Yasser Tejeda",
     "venue": "ZeyZey",
@@ -4043,6 +4113,20 @@
     "source": "ZeyZey",
     "age": "",
     "featured": true,
+    "new": true
+  },
+  {
+    "date": "2026-09-25",
+    "time": "9:15 AM",
+    "name": "Dance Fusion for Seniors (UN) &#8211; Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-fri/2026-09-25/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
