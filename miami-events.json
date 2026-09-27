@@ -4491,7 +4491,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-27",
@@ -4533,7 +4533,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-27",
@@ -4547,7 +4547,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-27",
@@ -4603,7 +4603,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-27",
@@ -4645,7 +4645,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-28",
@@ -4687,7 +4687,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-09-28",
@@ -4803,6 +4803,20 @@
   },
   {
     "date": "2026-10-01",
+    "time": "3:00 PM",
+    "name": "Kaseya Center All-Access Tour",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Sports",
+    "cost": "Check source",
+    "url": "https://www.universe.com/events/kaseya-center-all-access-tour-tickets-J2H8C4",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-01",
     "time": "8:00 PM",
     "name": "Mei-lan &#038; Ali",
     "venue": "Miami Beach Bandshell",
@@ -4831,6 +4845,20 @@
   },
   {
     "date": "2026-10-03",
+    "time": "1:00 PM",
+    "name": "Kaseya Center All-Access Tour",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Sports",
+    "cost": "Check source",
+    "url": "https://www.universe.com/events/kaseya-center-all-access-tour-tickets-J2H8C4",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-03",
     "time": "7:00 PM",
     "name": "Zoso",
     "venue": "Miami Beach Bandshell",
@@ -4855,7 +4883,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-04",
@@ -4883,7 +4911,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-05",
@@ -4897,7 +4925,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-06",
@@ -4908,6 +4936,20 @@
     "category": "Event",
     "cost": "Check source",
     "url": "https://www.ticketmaster.com/event/0D0064FDD6DC869B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=rwp26&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-10-08",
+    "time": "7:30 PM",
+    "name": "New Orleans Pelicans vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0064A5AB209DF4?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=preseason&promo_creative=button&promo_position=event_details",
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
