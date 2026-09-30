@@ -2228,6 +2228,20 @@
   {
     "date": "2026-10-03",
     "time": "12:00 AM",
+    "name": "80&#39;s &amp; 90&#39;s Classics | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 20",
+    "url": "https://tixr.com/e/202041",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-03",
+    "time": "12:00 AM",
     "name": "DJ Khaled | DAER Dayclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2238,6 +2252,34 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-03",
+    "time": "12:00 AM",
+    "name": "Salsa Night | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 20",
+    "url": "https://tixr.com/e/209178",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-03",
+    "time": "12:00 AM",
+    "name": "T.I. | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/202029",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-04",
@@ -2504,6 +2546,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-14",
+    "time": "12:00 AM",
+    "name": "Maddix | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/206002",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-21",
