@@ -2214,6 +2214,20 @@
   {
     "date": "2026-10-02",
     "time": "12:00 AM",
+    "name": "AYLA 10/2 | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/202040",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-02",
+    "time": "12:00 AM",
     "name": "Skilla Baby | DAER Nightclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2237,7 +2251,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-03",
@@ -2265,7 +2279,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-03",
@@ -2279,7 +2293,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-04",
@@ -2392,6 +2406,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-16",
+    "time": "12:00 AM",
+    "name": "Sak Noel - AYLA 10/16 | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/202044",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-17",
@@ -2559,7 +2587,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-21",
