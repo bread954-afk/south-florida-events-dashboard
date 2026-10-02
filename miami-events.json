@@ -5125,6 +5125,34 @@
   },
   {
     "date": "2026-10-02",
+    "time": "10:00 AM",
+    "name": "Art Class for Seniors (UN) – Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/art-class-for-seniors-fri-2/2026-10-02/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-02",
+    "time": "1:30 PM",
+    "name": "Flamenco for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/flamenco-for-seniors-2/2026-10-02/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-02",
     "time": "8:00 PM",
     "name": "Thundercat",
     "venue": "Miami Beach Bandshell",
@@ -5136,6 +5164,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-02",
+    "time": "9:15 AM",
+    "name": "Dance Fusion for Seniors (UN) &#8211; Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-fri/2026-10-02/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-03",
@@ -5182,6 +5224,20 @@
   {
     "date": "2026-10-04",
     "time": "6:00 PM",
+    "name": "Cuerda &#038; Clave at The Betsy Piano Bar",
+    "venue": "betsey hotel",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-10-04/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-04",
+    "time": "6:00 PM",
     "name": "Florida Fellowship Super Choir",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
@@ -5192,6 +5248,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-04",
+    "time": "6:00 PM",
+    "name": "The Ocean Drive Promenade Music Series",
+    "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-10-04/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-04",
@@ -5206,6 +5276,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-04",
+    "time": "9:00 AM",
+    "name": "Lincoln Road Farmer&#8217;s Market",
+    "venue": "Lenox Avenue &#038; Lincoln Road",
+    "city": "Miami Beach",
+    "category": "Market",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-10-04/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-05",
@@ -5261,7 +5345,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-09",
@@ -5289,7 +5373,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-10",
@@ -5317,7 +5401,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-15",
@@ -5331,7 +5415,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-18",
@@ -5345,7 +5429,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-24",
@@ -5359,7 +5443,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-25",
@@ -5373,7 +5457,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-01",
@@ -5387,7 +5471,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-13",
