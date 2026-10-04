@@ -5303,7 +5303,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-05",
@@ -5331,7 +5331,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-05",
@@ -5345,7 +5345,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-06",
@@ -5391,6 +5391,20 @@
   },
   {
     "date": "2026-10-09",
+    "time": "8:00 PM",
+    "name": "Camilo",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D006331BF132ABC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=camilo_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-09",
     "time": "TBD",
     "name": "Worship",
     "venue": "Factory Town",
@@ -5419,6 +5433,20 @@
   },
   {
     "date": "2026-10-10",
+    "time": "8:00 PM",
+    "name": "Minnesota Timberwolves vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0064A5AB259E01?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=preseason&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-10",
     "time": "TBD",
     "name": "Armin van Buuren presents The Orb",
     "venue": "Factory Town",
@@ -5444,6 +5472,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-11",
+    "time": "8:00 PM",
+    "name": "Arcángel",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0064AC03232957?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=arcangel_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-15",
