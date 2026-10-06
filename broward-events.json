@@ -2326,6 +2326,20 @@
   {
     "date": "2026-10-09",
     "time": "12:00 AM",
+    "name": "AYLA 10/9 | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/202042",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-09",
+    "time": "12:00 AM",
     "name": "Chase and Status | DAER Nightclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2396,6 +2410,20 @@
   {
     "date": "2026-10-11",
     "time": "12:00 AM",
+    "name": "Gameday Watch Party 10/11 | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/208792",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-11",
+    "time": "12:00 AM",
     "name": "Level Up | DAER Dayclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2406,6 +2434,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-16",
+    "time": "12:00 AM",
+    "name": "Dalvin La Melodia with Alex Sensation | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/202032",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-16",
@@ -2490,6 +2532,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-30",
+    "time": "12:00 AM",
+    "name": "Alex Sensation | DAER Dayclub Afterdark",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 20",
+    "url": "https://tixr.com/e/210188",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-30",
