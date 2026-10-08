@@ -2335,7 +2335,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-09",
@@ -2419,7 +2419,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-11",
@@ -2444,6 +2444,20 @@
     "category": "Nightlife / Party",
     "cost": "USD 30",
     "url": "https://tixr.com/e/202032",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-16",
+    "time": "12:00 AM",
+    "name": "Friday, October 16 | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/202044",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
@@ -2545,7 +2559,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-30",
@@ -2694,7 +2708,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Event",
-    "cost": "USD 100",
+    "cost": "USD 199.99",
     "url": "https://tixr.com/e/208224",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
