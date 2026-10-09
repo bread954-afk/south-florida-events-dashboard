@@ -5531,6 +5531,48 @@
   },
   {
     "date": "2026-10-09",
+    "time": "1:30 PM",
+    "name": "Flamenco for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/flamenco-for-seniors-2/2026-10-09/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-09",
+    "time": "3:00 PM",
+    "name": "Bid Opening-ITB 2026-010-MP Collision Repair",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/bid-opening-2026-010-mp-collision-repair/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-09",
+    "time": "6:30 PM",
+    "name": "The Geneva Window:  A Centenary Celebration",
+    "venue": "The Wolfsonian–FIU",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "USD 20",
+    "url": "https://events.miamibeachfl.gov/event/the-geneva-window-a-centenary-celebration/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-09",
     "time": "8:00 PM",
     "name": "Black Country, New Road",
     "venue": "Miami Beach Bandshell",
@@ -5584,6 +5626,48 @@
     "age": "18+",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-10",
+    "time": "10:00 AM",
+    "name": "3D Printing Basics at Moonlighter FabLab",
+    "venue": "Moonlighter FabLab",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/3d-printing-basics-at-moonlighter-fablab/2026-10-10/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-10",
+    "time": "10:00 AM",
+    "name": "Building Paradise: Bahamian Labor and the Making of Miami",
+    "venue": "Miami Beach Regional Library",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/building-paradise-bahamian-labor-and-the-making-of-miami/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-10",
+    "time": "2:00 PM",
+    "name": "South Beach Chamber Ensemble: From Spain and Cuba",
+    "venue": "The Bass Museum of Art",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/south-beach-chamber-ensemble-from-spain-and-cuba/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-10",
@@ -5779,6 +5863,6 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   }
 ]

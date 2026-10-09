@@ -2358,7 +2358,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 30",
+    "cost": "USD 40",
     "url": "https://tixr.com/e/208488",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2447,7 +2447,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-16",
@@ -2686,6 +2686,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-31",
+    "time": "12:00 AM",
+    "name": "Chacal - New Year&#39;s Eve | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 199.99",
+    "url": "https://tixr.com/e/208224",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-31",
