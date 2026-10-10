@@ -2386,7 +2386,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 20",
+    "cost": "USD 30",
     "url": "https://tixr.com/e/202031",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2400,7 +2400,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Event",
-    "cost": "USD 30",
+    "cost": "USD 40",
     "url": "https://tixr.com/e/202009",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2699,7 +2699,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-31",
