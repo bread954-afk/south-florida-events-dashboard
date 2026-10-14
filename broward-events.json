@@ -2466,6 +2466,20 @@
   {
     "date": "2026-10-16",
     "time": "12:00 AM",
+    "name": "Pregame Lounge | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/210645",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-16",
+    "time": "12:00 AM",
     "name": "Sak Noel - AYLA 10/16 | Rooftop Live",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2536,6 +2550,20 @@
   {
     "date": "2026-10-24",
     "time": "12:00 AM",
+    "name": "Bikini Bottom | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/206563",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-24",
+    "time": "12:00 AM",
     "name": "Doomsday | DAER Dayclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2559,7 +2587,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-24",
