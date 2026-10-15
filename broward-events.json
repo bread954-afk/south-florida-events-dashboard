@@ -2475,7 +2475,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-16",
@@ -2498,7 +2498,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Event",
-    "cost": "USD 30",
+    "cost": "USD 40",
     "url": "https://tixr.com/e/202011",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2559,7 +2559,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-24",
@@ -2714,6 +2714,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-13",
+    "time": "12:00 AM",
+    "name": "Kodak Black | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 40",
+    "url": "https://tixr.com/e/206001",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-14",
