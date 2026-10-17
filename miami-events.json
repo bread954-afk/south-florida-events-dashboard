@@ -6241,7 +6241,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-17",
@@ -6255,7 +6255,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-18",
@@ -6269,7 +6269,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-18",
@@ -6283,7 +6283,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-18",
@@ -6301,6 +6301,34 @@
   },
   {
     "date": "2026-10-18",
+    "time": "2:00 PM",
+    "name": "ZunZún Children’s Fest",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/zunzun-childrens-fest/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-18",
+    "time": "6:00 PM",
+    "name": "The Ocean Drive Promenade Music Series",
+    "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-10-18/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-18",
     "time": "8:00 PM",
     "name": "Tini",
     "venue": "Kaseya Center",
@@ -6311,7 +6339,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-18",
@@ -6325,7 +6353,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-21",
@@ -6339,7 +6367,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-23",
@@ -6350,6 +6378,34 @@
     "category": "Event",
     "cost": "Check source",
     "url": "https://www.ticketmaster.com/event/0D00650C8C0D3750?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-10-24",
+    "time": "1:00 PM",
+    "name": "Kaseya Center All-Access Tour",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Sports",
+    "cost": "Check source",
+    "url": "https://www.universe.com/events/kaseya-center-all-access-tour-tickets-J2H8C4",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-24",
+    "time": "8:00 PM",
+    "name": "Chayanne",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00646A64C11EFD?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=chayanne_2026&promo_creative=button&promo_position=event_details",
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
@@ -6382,6 +6438,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-26",
+    "time": "7:30 PM",
+    "name": "Dallas Mavericks vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00650C8E8E3B23?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-01",
