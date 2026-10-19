@@ -2604,6 +2604,20 @@
     "new": false
   },
   {
+    "date": "2026-10-25",
+    "time": "12:00 AM",
+    "name": "Gameday Watch Party 10/25 | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/202018",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-10-30",
     "time": "12:00 AM",
     "name": "Alex Sensation | DAER Dayclub Afterdark",
@@ -2624,7 +2638,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 30",
+    "cost": "USD 40",
     "url": "https://tixr.com/e/204541",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2756,6 +2770,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-11",
+    "time": "12:00 AM",
+    "name": "Snoop Dogg | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 40",
+    "url": "https://tixr.com/e/207835",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-31",
