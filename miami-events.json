@@ -6427,6 +6427,48 @@
   },
   {
     "date": "2026-10-20",
+    "time": "1:00 PM",
+    "name": "Art Week Community Review Meeting",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/art-week-community-review-meeting/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-20",
+    "time": "1:30 PM",
+    "name": "Bingo for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/bingo-for-seniors-un-2/2026-10-20/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-10-20",
+    "time": "2:00 PM",
+    "name": "Pre-Bid Meeting ITB 2027-029-JP, North Beach Stormwater Quality Improvements",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/pre-bid-meeting-itb-2027-029-jp-north-beach-stormwater-quality-improvements/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-20",
     "time": "7:00 AM",
     "name": "Early Voting for the November 3, 2026 General Election/Miami Beach Special Election  **A secure Vote-by-Mail drop box will be available and staffed at each Early Voting location during Early Voting hours of operation.",
     "venue": "Miami Beach Events",
@@ -6437,7 +6479,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-20",
@@ -6448,6 +6490,20 @@
     "category": "Community / Event",
     "cost": "Check source",
     "url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-10-20/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-20",
+    "time": "9:00 AM",
+    "name": "Special Magistrate Hearings",
+    "venue": "City Hall Commission Chamber",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/special-magistrate-hearings-16/",
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
@@ -6493,7 +6549,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-24",
@@ -6507,7 +6563,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-24",
@@ -6546,6 +6602,34 @@
     "category": "Event",
     "cost": "Check source",
     "url": "https://www.ticketmaster.com/event/0D00650C8E8E3B23?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-10-28",
+    "time": "8:00 PM",
+    "name": "Young Miko",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D006483BCB1D6C1?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=young-miko_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "name": "Indiana Pacers vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00650C8C12375A?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
@@ -6592,6 +6676,76 @@
     "age": "18+",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-02",
+    "time": "TBD",
+    "name": "Deep House Bible",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://dice.fm/event/6ac6b477b79982000164dae2",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-02",
+    "time": "TBD",
+    "name": "Factory Basel x Factory 93",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://dice.fm/event/6ac6b477b79982000164dae2",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-02",
+    "time": "TBD",
+    "name": "Franky Rizardo presents Flow",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://dice.fm/event/6ac6b477b79982000164dae2",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-02",
+    "time": "TBD",
+    "name": "Gennaro presents NAIMA",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://dice.fm/event/6ac6b477b79982000164dae2",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-02",
+    "time": "TBD",
+    "name": "Zack Fox presents UWAY",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://dice.fm/event/6ac6b477b79982000164dae2",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-05",
