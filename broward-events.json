@@ -2548,6 +2548,20 @@
     "new": false
   },
   {
+    "date": "2026-10-23",
+    "time": "12:00 AM",
+    "name": "Pregame Lounge | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/202046",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-10-24",
     "time": "12:00 AM",
     "name": "Bikini Bottom | DAER Dayclub",
@@ -2690,6 +2704,20 @@
   {
     "date": "2026-10-31",
     "time": "12:00 AM",
+    "name": "Halloween Night  | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 20",
+    "url": "https://tixr.com/e/205298",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-31",
+    "time": "12:00 AM",
     "name": "LASZEWO - Halloween | DAER Nightclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2778,7 +2806,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 40",
+    "cost": "USD 50",
     "url": "https://tixr.com/e/207835",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
