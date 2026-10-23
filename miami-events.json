@@ -6661,6 +6661,48 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-10-23",
+    "time": "1:30 PM",
+    "name": "Flamenco for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/flamenco-for-seniors-2/2026-10-23/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-23",
+    "time": "6:00 PM",
+    "name": "Folklore &#038; Foliage at the Botanical Garden",
+    "venue": "Miami Beach Botanical Garden",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/folklore-foliage-at-the-botanical-garden/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-23",
+    "time": "6:00 PM",
+    "name": "Offline at The Wolf: Mahjong Night",
+    "venue": "The Wolfsonian–FIU",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/offline-at-the-wolf-mahjong-night/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -6675,7 +6717,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-23",
@@ -6718,6 +6760,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-10-24",
+    "time": "7:00 AM",
+    "name": "Early Voting for the November 3, 2026 General Election/Miami Beach Special Election  **A secure Vote-by-Mail drop box will be available and staffed at each Early Voting location during Early Voting hours of operation.",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/early-voting-for-the-november-3-2026-general-election-miami-beach-special-election-a-secure-vote-by-mail-drop-box-will-be-available-and-staffed-at-each-early-voting-location-during-early-voting-ho/2026-10-24/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-10-24",
@@ -7011,7 +7067,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-04",
@@ -7025,7 +7081,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-04",
@@ -7039,7 +7095,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-04",
@@ -7053,7 +7109,7 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-05",
@@ -7082,5 +7138,75 @@
     "age": "18+",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-06",
+    "time": "TBD",
+    "name": "Gordo presents Taraka",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://link.dice.fm/Pb2296138825",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-06",
+    "time": "TBD",
+    "name": "OMRI. presents Collecting Dots",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://link.dice.fm/Pb2296138825",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-06",
+    "time": "TBD",
+    "name": "Revival",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://link.dice.fm/Pb2296138825",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-06",
+    "time": "TBD",
+    "name": "elrow presents Bhūtarāh",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://link.dice.fm/Pb2296138825",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-06",
+    "time": "TBD",
+    "name": "salute presents Infinite Passion",
+    "venue": "Factory Town",
+    "city": "Miami",
+    "category": "Concert / Electronic",
+    "cost": "Ticketed",
+    "url": "https://link.dice.fm/Pb2296138825",
+    "source": "Factory Town / Insomniac",
+    "age": "18+",
+    "featured": false,
+    "new": true
   }
 ]

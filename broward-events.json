@@ -2643,7 +2643,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-30",
@@ -2657,7 +2657,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-10-30",
@@ -2736,7 +2736,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Event",
-    "cost": "USD 20",
+    "cost": "USD 0",
     "url": "https://tixr.com/e/205298",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2826,6 +2826,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-05",
+    "time": "12:00 AM",
+    "name": "Magnate | DAER Dayclub Afterdark",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 40",
+    "url": "https://tixr.com/e/212140",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-11",
