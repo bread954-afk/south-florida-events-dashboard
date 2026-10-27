@@ -6986,6 +6986,76 @@
     "new": false
   },
   {
+    "date": "2026-10-27",
+    "time": "3:00 PM",
+    "name": "Spanish Class for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/spanish-class-for-seniors-2/2026-10-27/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-27",
+    "time": "4:00 PM",
+    "name": "Choir for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/choir-for-seniors-2/2026-10-27/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-27",
+    "time": "4:00 PM",
+    "name": "Youth Commission Meeting",
+    "venue": "City Manager&#8217;s Large Conference Room",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/youth-commission-meeting-3/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-27",
+    "time": "7:00 AM",
+    "name": "Early Voting for the November 3, 2026 General Election/Miami Beach Special Election  **A secure Vote-by-Mail drop box will be available and staffed at each Early Voting location during Early Voting hours of operation.",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/early-voting-for-the-november-3-2026-general-election-miami-beach-special-election-a-secure-vote-by-mail-drop-box-will-be-available-and-staffed-at-each-early-voting-location-during-early-voting-ho/2026-10-27/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-28",
+    "time": "7:00 AM",
+    "name": "Early Voting for the November 3, 2026 General Election/Miami Beach Special Election  **A secure Vote-by-Mail drop box will be available and staffed at each Early Voting location during Early Voting hours of operation.",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/early-voting-for-the-november-3-2026-general-election-miami-beach-special-election-a-secure-vote-by-mail-drop-box-will-be-available-and-staffed-at-each-early-voting-location-during-early-voting-ho/2026-10-28/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-10-28",
     "time": "8:00 PM",
     "name": "Young Miko",
@@ -6995,6 +7065,20 @@
     "cost": "Check source",
     "url": "https://www.ticketmaster.com/event/0D006483BCB1D6C1?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=young-miko_2026&promo_creative=button&promo_position=event_details",
     "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-10-28",
+    "time": "9:00 AM",
+    "name": "Tai Chi for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2-2/2026-10-28/",
+    "source": "Miami Beach Events",
     "age": "",
     "featured": false,
     "new": true
@@ -7011,7 +7095,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-01",
