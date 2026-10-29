@@ -2680,7 +2680,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 40",
+    "cost": "USD 50",
     "url": "https://tixr.com/e/204541",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -2760,6 +2760,20 @@
   {
     "date": "2026-10-31",
     "time": "12:00 AM",
+    "name": "Marco Ninni | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/204543",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-10-31",
+    "time": "12:00 AM",
     "name": "ŁASZEWO - Halloween | DAER Nightclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2770,6 +2784,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-01",
+    "time": "12:00 AM",
+    "name": "Konflikt | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/204544",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-01",
