@@ -7277,6 +7277,20 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-11-01",
+    "time": "12:00 PM",
+    "name": "Miami Beach Pull-Up Jam with Chris Heria",
+    "venue": "Lummus Park Muscle Beach",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/miami-beach-pull-up-jam-with-chris-heria/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
     "new": true
   },
   {
@@ -7295,6 +7309,34 @@
   },
   {
     "date": "2026-11-01",
+    "time": "6:00 PM",
+    "name": "The Ocean Drive Promenade Music Series",
+    "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-11-01/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-01",
+    "time": "6:00 PM",
+    "name": "The Rocky Horror Picture Show meets Dia de Los Muertos",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "USD 42",
+    "url": "https://events.miamibeachfl.gov/event/the-rocky-horror-picture-show-meets-dia-de-los-muertos/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-01",
     "time": "7:00 AM",
     "name": "Early Voting for the November 3, 2026 General Election/Miami Beach Special Election  **A secure Vote-by-Mail drop box will be available and staffed at each Early Voting location during Early Voting hours of operation.",
     "venue": "Miami Beach Events",
@@ -7305,7 +7347,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-01",
@@ -7320,6 +7362,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-01",
+    "time": "9:00 AM",
+    "name": "Lincoln Road Farmer&#8217;s Market",
+    "venue": "Lenox Avenue &#038; Lincoln Road",
+    "city": "Miami Beach",
+    "category": "Market",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-11-01/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-05",
