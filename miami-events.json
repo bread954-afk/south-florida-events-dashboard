@@ -7291,7 +7291,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-01",
@@ -7310,6 +7310,20 @@
   {
     "date": "2026-11-01",
     "time": "6:00 PM",
+    "name": "Cuerda &#038; Clave at The Betsy Piano Bar",
+    "venue": "betsey hotel",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-11-01/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-01",
+    "time": "6:00 PM",
     "name": "The Ocean Drive Promenade Music Series",
     "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
     "city": "Miami Beach",
@@ -7319,7 +7333,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-01",
@@ -7333,7 +7347,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-01",
@@ -7375,7 +7389,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-05",
@@ -7392,6 +7406,48 @@
     "new": true
   },
   {
+    "date": "2026-11-06",
+    "time": "8:00 PM",
+    "name": "[CANCELED] Ben Katzman Homecoming",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/ben-katzman-homecoming/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "name": "Roda de Samba with Soul Samba",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Nightlife / Party",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/roda-de-samba-with-soul-samba/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-08",
+    "time": "7:00 PM",
+    "name": "Fall For Dance NOW!",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/fall-for-dance-now/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-11-11",
     "time": "7:30 PM",
     "name": "Doja Cat",
@@ -7401,6 +7457,20 @@
     "cost": "Check source",
     "url": "https://www.ticketmaster.com/event/0D006339140D4C8B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=doja-cat_2026&promo_creative=button&promo_position=event_details",
     "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "name": "Nino Arial &#8211; Pas Comme Eux",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Comedy",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/nino-arial-pas-comme-eux/",
+    "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
     "new": true
@@ -7421,6 +7491,20 @@
   },
   {
     "date": "2026-11-13",
+    "time": "7:00 PM",
+    "name": "Hot Mulligan",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/hot-mulligan/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-13",
     "time": "TBD",
     "name": "Unreal",
     "venue": "Factory Town",
@@ -7435,6 +7519,34 @@
   },
   {
     "date": "2026-11-14",
+    "time": "7:00 PM",
+    "name": "Rock Ensemble: Tribute to Doug Burris",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/miami-beach-rock-ensemble/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-14",
+    "time": "9:00 AM",
+    "name": "305 Cleanup: Backstage at the Bandshell",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/305-cleanup-backstage-at-the-bandshell/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-14",
     "time": "TBD",
     "name": "ODESZA (DJ Set)",
     "venue": "Factory Town",
@@ -7446,6 +7558,118 @@
     "age": "18+",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-15",
+    "time": "7:00 PM",
+    "name": "The Saami Brothers",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/the-saami-brothers/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-19",
+    "time": "7:30 PM",
+    "name": "Abstract Citizen",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/abstract-citizen/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-20",
+    "time": "8:00 PM",
+    "name": "Madre Cumbia",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/madre-cumbia/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-21",
+    "time": "8:00 PM",
+    "name": "Buena Vista Orchestra",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/buena-vista-orchestra/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-22",
+    "time": "7:00 PM",
+    "name": "Miami Beach ¡Baila!",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Family",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/miami-beach-baila/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-25",
+    "time": "6:30 PM",
+    "name": "Tudo Bem",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/tudo-bem/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-27",
+    "time": "5:00 PM",
+    "name": "Thanksgiving Roller Disco",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/thanksgiving-roller-disco/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-28",
+    "time": "8:00 PM",
+    "name": "Duelo",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/duelo/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-02",
