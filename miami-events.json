@@ -7392,6 +7392,90 @@
     "new": false
   },
   {
+    "date": "2026-11-02",
+    "time": "9:00 AM",
+    "name": "Special Magistrate Hearings",
+    "venue": "City Hall Commission Chamber",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/special-magistrate-hearings-18/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-03",
+    "time": "10:00 AM",
+    "name": "Black Affairs Advisory Committee",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/black-affairs-advisory-committee/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-03",
+    "time": "7:00 AM",
+    "name": "Election Day",
+    "venue": "City Hall First Floor",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/election-day/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-03",
+    "time": "8:00 AM",
+    "name": "Outdoor Yoga for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-11-03/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-03",
+    "time": "9:00 AM",
+    "name": "Planning Board*",
+    "venue": "City Hall Commission Chamber",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/planning-board-3/2026-11-03/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-03",
+    "time": "9:15 AM",
+    "name": "Chair Yoga for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/chair-yoga-for-seniors-2/2026-11-03/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-11-05",
     "time": "8:00 AM",
     "name": "Tony Robbins",
@@ -7417,7 +7501,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-07",
@@ -7431,7 +7515,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-08",
@@ -7445,7 +7529,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-11",
@@ -7473,7 +7557,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-12",
@@ -7501,7 +7585,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-13",
@@ -7529,7 +7613,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-14",
@@ -7543,7 +7627,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-14",
@@ -7571,7 +7655,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-19",
@@ -7585,7 +7669,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-20",
@@ -7599,7 +7683,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-21",
@@ -7613,7 +7697,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-22",
@@ -7627,7 +7711,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-25",
@@ -7641,7 +7725,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-27",
@@ -7655,7 +7739,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-28",
@@ -7669,7 +7753,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-02",
