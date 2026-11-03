@@ -2839,7 +2839,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-13",
@@ -2881,7 +2881,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-21",
@@ -2898,6 +2898,34 @@
     "new": false
   },
   {
+    "date": "2026-12-04",
+    "time": "12:00 AM",
+    "name": "Crankdat - Cyclops Cove Afterparty | DAER Dayclub Afterdark",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 35",
+    "url": "https://tixr.com/e/213223",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-04",
+    "time": "12:00 AM",
+    "name": "Dual Ticket - Cyclops Cove Afterparty | DAER South Florida",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 50",
+    "url": "https://tixr.com/e/213245",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-12-05",
     "time": "12:00 AM",
     "name": "Magnate | DAER Dayclub Afterdark",
@@ -2910,6 +2938,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-05",
+    "time": "12:00 AM",
+    "name": "RL Grime - Cyclops Cove After Party | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 25",
+    "url": "https://tixr.com/e/207834",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-11",
