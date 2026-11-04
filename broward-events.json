@@ -2816,6 +2816,20 @@
   {
     "date": "2026-11-06",
     "time": "12:00 AM",
+    "name": "Millenium | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/208228",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-06",
+    "time": "12:00 AM",
     "name": "Sech | DAER Nightclub",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -2904,12 +2918,12 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 35",
+    "cost": "USD 40",
     "url": "https://tixr.com/e/213223",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-04",
@@ -2918,12 +2932,12 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 50",
+    "cost": "USD 55",
     "url": "https://tixr.com/e/213245",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-05",
@@ -2951,7 +2965,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-11",
