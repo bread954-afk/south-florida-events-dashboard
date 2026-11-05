@@ -2825,7 +2825,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-06",
@@ -2854,6 +2854,34 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-07",
+    "time": "12:00 AM",
+    "name": "Romi Lux | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "Check source",
+    "url": "https://tixr.com/e/206000",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-08",
+    "time": "12:00 AM",
+    "name": "Sunkiss Sunday | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/205532",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-13",

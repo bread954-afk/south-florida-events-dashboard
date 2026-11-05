@@ -7575,13 +7575,55 @@
   },
   {
     "date": "2026-11-05",
-    "time": "8:00 AM",
-    "name": "Outdoor Yoga for Seniors (UN)",
-    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "time": "10:15 AM",
+    "name": "Tony Robbins",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.tonyrobbins.com/events/unleash-the-power-within/upw-november-2026?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=tony-robbins_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-11-05",
+    "time": "3:00 PM",
+    "name": "Miami New Drama Presents The World Premiere of Gandhi and the Jew",
+    "venue": "Colony Theater",
     "city": "Miami Beach",
     "category": "Community / Event",
     "cost": "Check source",
-    "url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-11-05/",
+    "url": "https://events.miamibeachfl.gov/event/miami-new-drama-presents-the-world-premiere-of-gandhi-and-the-jew/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-05",
+    "time": "4:00 PM",
+    "name": "Miami Beach Ocean Heroes Exhibition",
+    "venue": "Lummus Park &#8211; 11 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/miami-beach-ocean-heroes-exhibition/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-05",
+    "time": "5:00 PM",
+    "name": "Second Virtual Community Meeting for the Proposed FAR Increase for 1751, 1757 &#038; 1775 Collins Avenue",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/second-virtual-community-meeting-for-the-proposed-far-increase-for-1751-1757-1775-collins-avenue/",
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
@@ -7590,13 +7632,13 @@
   {
     "date": "2026-11-05",
     "time": "8:00 AM",
-    "name": "Tony Robbins",
-    "venue": "Kaseya Center",
-    "city": "Miami",
-    "category": "Event",
+    "name": "Outdoor Yoga for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
     "cost": "Check source",
-    "url": "https://www.tonyrobbins.com/events/unleash-the-power-within/upw-november-2026?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=tony-robbins_2026&promo_creative=button&promo_position=event_details",
-    "source": "Kaseya Center",
+    "url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-11-05/",
+    "source": "Miami Beach Events",
     "age": "",
     "featured": false,
     "new": true
@@ -7613,7 +7655,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-05",
@@ -7642,6 +7684,34 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-06",
+    "time": "9:00 AM",
+    "name": "Board of Adjustment*",
+    "venue": "City Hall Commission Chamber",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/board-of-adjustment-2/2026-11-06/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-06",
+    "time": "9:15 AM",
+    "name": "Dance Fusion for Seniors (UN) &#8211; Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-fri/2026-11-06/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-07",
@@ -7683,7 +7753,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-11",
@@ -7711,7 +7781,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-13",
@@ -7726,6 +7796,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-13",
+    "time": "8:00 PM",
+    "name": "Cleveland Cavaliers vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00650C8C17375F?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-13",
@@ -7754,6 +7838,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-14",
+    "time": "8:00 PM",
+    "name": "Detroit Pistons vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00650C8C1C376C?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-14",
@@ -7796,6 +7894,34 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-16",
+    "time": "7:30 PM",
+    "name": "Houston Rockets vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00650C8E933B3A?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-18",
+    "time": "7:00 PM",
+    "name": "Milwaukee Bucks vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00650C8D3A38C3?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-19",
@@ -8201,6 +8327,6 @@
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
-    "new": true
+    "new": false
   }
 ]
