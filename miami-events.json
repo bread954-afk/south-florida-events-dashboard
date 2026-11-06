@@ -7599,7 +7599,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-05",
@@ -7673,6 +7673,34 @@
   },
   {
     "date": "2026-11-06",
+    "time": "6:00 PM",
+    "name": "Offline at The Wolf: Mahjong Night",
+    "venue": "The Wolfsonian–FIU",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/offline-at-the-wolf-mahjong-night-2/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-06",
+    "time": "7:00 PM",
+    "name": "Beyond the Pages: The Vortex",
+    "venue": "The Wolfsonian–FIU",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/beyond-the-pages-the-vortex/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-06",
     "time": "8:00 PM",
     "name": "[CANCELED] Ben Katzman Homecoming",
     "venue": "Miami Beach Bandshell",
@@ -7697,7 +7725,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-06",
@@ -7708,6 +7736,34 @@
     "category": "Community / Event",
     "cost": "Check source",
     "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-fri/2026-11-06/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-07",
+    "time": "5:30 PM",
+    "name": "Bugle Call Retreat",
+    "venue": "The Betsy South Beach",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/bugle-call-retreat/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-07",
+    "time": "6:00 PM",
+    "name": "LOVEisLOVE MIAMI HIP HOP BLOCK PARTY",
+    "venue": "Normandy Fountain &#8211; 7802 Rue Vendome",
+    "city": "Miami Beach",
+    "category": "Nightlife / Party",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/loveislove-miami-hip-hop-block-party/",
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
