@@ -7795,7 +7795,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-08",
@@ -7809,7 +7809,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-08",
@@ -7834,6 +7834,20 @@
     "category": "Market",
     "cost": "USD 0",
     "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-11-08/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-11-09",
+    "time": "9:00 AM",
+    "name": "Tai Chi for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2-2/2026-11-09/",
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
