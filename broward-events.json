@@ -2898,6 +2898,20 @@
     "new": false
   },
   {
+    "date": "2026-11-13",
+    "time": "12:00 AM",
+    "name": "Pregame Lounge | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/208231",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-11-14",
     "time": "12:00 AM",
     "name": "Maddix | DAER Nightclub",
@@ -2910,6 +2924,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-14",
+    "time": "12:00 AM",
+    "name": "Strictly The Best | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 40",
+    "url": "https://tixr.com/e/208232",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-20",
@@ -2940,6 +2968,20 @@
     "new": false
   },
   {
+    "date": "2026-11-28",
+    "time": "12:00 AM",
+    "name": "Trey Songz | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "Check source",
+    "url": "https://tixr.com/e/206021",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-12-04",
     "time": "12:00 AM",
     "name": "Crankdat - Cyclops Cove Afterparty | DAER Dayclub Afterdark",
@@ -2960,7 +3002,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 55",
+    "cost": "USD 70",
     "url": "https://tixr.com/e/213245",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -3008,6 +3050,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-12",
+    "time": "12:00 AM",
+    "name": "Sullivan King | DAER Dayclub Afterdark",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 25",
+    "url": "https://tixr.com/e/213703",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-31",
