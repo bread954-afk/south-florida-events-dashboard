@@ -2909,7 +2909,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-14",
@@ -2937,7 +2937,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-20",
@@ -2979,7 +2979,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-04",
@@ -3060,6 +3060,20 @@
     "category": "Event",
     "cost": "USD 25",
     "url": "https://tixr.com/e/213703",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-12-24",
+    "time": "12:00 AM",
+    "name": "Zehavi | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "Check source",
+    "url": "https://tixr.com/e/214220",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
