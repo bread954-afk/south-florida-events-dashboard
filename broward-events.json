@@ -2940,6 +2940,20 @@
     "new": false
   },
   {
+    "date": "2026-11-15",
+    "time": "12:00 AM",
+    "name": "Sunkiss Sunday | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 0",
+    "url": "https://tixr.com/e/205537",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-11-20",
     "time": "12:00 AM",
     "name": "Fabolous | DAER Nightclub",
@@ -2966,6 +2980,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-21",
+    "time": "12:00 AM",
+    "name": "Fire Brigade | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 20",
+    "url": "https://tixr.com/e/208236",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-28",
@@ -3054,6 +3082,20 @@
   {
     "date": "2026-12-12",
     "time": "12:00 AM",
+    "name": "Edd - Broken Sound Records | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 15",
+    "url": "https://tixr.com/e/208273",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-12",
+    "time": "12:00 AM",
     "name": "Sullivan King | DAER Dayclub Afterdark",
     "venue": "Hard Rock DAER",
     "city": "Davie",
@@ -3077,7 +3119,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-31",

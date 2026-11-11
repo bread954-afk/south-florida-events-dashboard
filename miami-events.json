@@ -7967,6 +7967,48 @@
   },
   {
     "date": "2026-11-11",
+    "time": "11:00 AM",
+    "name": "Veterans Day Parade",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/veterans-day-parade/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-11",
+    "time": "12:00 AM",
+    "name": "Veterans Day",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/veterans-day/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-11",
+    "time": "3:30 PM",
+    "name": "Moonlighter FabLab: Maker Club Afterschool Enrichment &#8211; 2026-2027",
+    "venue": "Moonlighter FabLab",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/moonlighter-fablab-maker-club-afterschool-enrichment-2026-2027/2026-11-11/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-11",
     "time": "7:30 PM",
     "name": "Doja Cat",
     "venue": "Kaseya Center",
@@ -7994,6 +8036,20 @@
     "new": false
   },
   {
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "name": "SoundScape Cinema Series: Flubber",
+    "venue": "SoundScape Park",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/flubber/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
     "date": "2026-11-12",
     "time": "7:00 PM",
     "name": "The Neighbourhood",
@@ -8006,6 +8062,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-12",
+    "time": "8:00 AM",
+    "name": "Outdoor Yoga for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-11-12/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-13",
@@ -8033,7 +8103,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-13",
@@ -8075,7 +8145,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-14",
@@ -8131,7 +8201,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-18",
@@ -8145,7 +8215,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-19",
@@ -8160,6 +8230,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-20",
+    "time": "8:00 PM",
+    "name": "John Summit",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0064B2B883819E?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=john-summit_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-20",
