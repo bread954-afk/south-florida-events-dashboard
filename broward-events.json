@@ -2951,7 +2951,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-20",
@@ -2993,7 +2993,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-28",
@@ -3016,7 +3016,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 45",
+    "cost": "USD 50",
     "url": "https://tixr.com/e/213223",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -3030,7 +3030,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 70",
+    "cost": "USD 75",
     "url": "https://tixr.com/e/213245",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -3091,7 +3091,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-12",
