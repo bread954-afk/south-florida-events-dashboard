@@ -8149,6 +8149,20 @@
   },
   {
     "date": "2026-11-13",
+    "time": "6:00 PM",
+    "name": "Museum and a Movie | Salvatore: Shoemaker of Dreams",
+    "venue": "The Wolfsonian–FIU",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/museum-and-a-movie-salvatore-shoemaker-of-dreams/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-13",
     "time": "7:00 PM",
     "name": "Hot Mulligan",
     "venue": "Miami Beach Bandshell",
@@ -8160,6 +8174,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-13",
+    "time": "7:30 PM",
+    "name": "TCHAIKOVSKY’S PIANO CONCERTO NO. 1 &#038; SHOSTAKOVICH’S TWELFTH SYMPHONY",
+    "venue": "New World Center",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tchaikovskys-piano-concerto-no-1-shostakovichs-twelfth-symphony/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-13",
@@ -8188,6 +8216,34 @@
     "age": "18+",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-14",
+    "time": "10:00 AM",
+    "name": "3D Printing Basics at Moonlighter FabLab",
+    "venue": "Moonlighter FabLab",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/3d-printing-basics-at-moonlighter-fablab/2026-11-14/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-14",
+    "time": "5:00 PM",
+    "name": "OnStage! presents Live En La Playa",
+    "venue": "Lummus Park &#8211; 6th Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/onstage-live-en-la-playa/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-14",
@@ -8230,6 +8286,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-14",
+    "time": "9:00 AM",
+    "name": "Dune Restoration Event",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/dune-restoration-event/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-14",
@@ -8701,7 +8771,7 @@
     "city": "Miami",
     "category": "Concert / Electronic",
     "cost": "Ticketed",
-    "url": "https://www.insomniac.com/events/good-fortune-presents-dom-dolla-2026-12-31-miami-fl/",
+    "url": "https://dice.fm/event/8v33lv-dom-dolla-presents-good-fortune-31st-dec-factory-town-miami-tickets?lng=en-US",
     "source": "Factory Town / Insomniac",
     "age": "18+",
     "featured": false,
