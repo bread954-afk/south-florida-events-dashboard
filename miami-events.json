@@ -8243,7 +8243,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-14",
@@ -8317,6 +8317,34 @@
   },
   {
     "date": "2026-11-15",
+    "time": "6:00 PM",
+    "name": "Live Arts Miami: Saami Brothers Qawwali",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/live-arts-miami-saami-brothers-qawwali/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-15",
+    "time": "6:00 PM",
+    "name": "The Ocean Drive Promenade Music Series",
+    "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-11-15/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-15",
     "time": "7:00 PM",
     "name": "The Saami Brothers",
     "venue": "Miami Beach Bandshell",
@@ -8328,6 +8356,34 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-15",
+    "time": "9:00 AM",
+    "name": "Lincoln Road Farmer&#8217;s Market",
+    "venue": "Lenox Avenue &#038; Lincoln Road",
+    "city": "Miami Beach",
+    "category": "Market",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-11-15/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-15",
+    "time": "9:30 AM",
+    "name": "Commissioner Mark Samuelian Scholastic Chess Tournament",
+    "venue": "Scott Rakow Youth Center &#8211; 2700 Sheridan Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/commissioner-mark-samuelian-scholastic-chess-tournament/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-16",
