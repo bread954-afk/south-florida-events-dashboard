@@ -8318,6 +8318,20 @@
   {
     "date": "2026-11-15",
     "time": "6:00 PM",
+    "name": "Cuerda &#038; Clave at The Betsy Piano Bar",
+    "venue": "betsey hotel",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-11-15/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-15",
+    "time": "6:00 PM",
     "name": "Live Arts Miami: Saami Brothers Qawwali",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
@@ -8327,7 +8341,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-15",
@@ -8341,11 +8355,11 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-15",
-    "time": "7:00 PM",
+    "time": "8:00 PM",
     "name": "The Saami Brothers",
     "venue": "Miami Beach Bandshell",
     "city": "Miami Beach",
@@ -8369,7 +8383,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-15",
@@ -8383,7 +8397,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-16",
