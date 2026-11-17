@@ -8443,6 +8443,62 @@
   },
   {
     "date": "2026-11-17",
+    "time": "3:00 PM",
+    "name": "Spanish Class for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/spanish-class-for-seniors-2/2026-11-17/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-17",
+    "time": "3:30 PM",
+    "name": "Disability Access Committee",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/disability-access-committee-2/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-17",
+    "time": "4:00 PM",
+    "name": "Choir for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/choir-for-seniors-2/2026-11-17/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-17",
+    "time": "4:00 PM",
+    "name": "Youth Commission Meeting",
+    "venue": "City Manager&#8217;s Large Conference Room",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/youth-commission-meeting-4/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-17",
     "time": "8:00 AM",
     "name": "Outdoor Yoga for Seniors (UN)",
     "venue": "UNIDAD &#8211; 7251 Collins Avenue",
@@ -8481,7 +8537,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-18",
@@ -8807,6 +8863,20 @@
   },
   {
     "date": "2026-12-05",
+    "time": "7:00 PM",
+    "name": "Flowers While I&#8217;m Here",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/flowers-while-im-here/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-12-05",
     "time": "TBD",
     "name": "Circoloco",
     "venue": "Factory Town",
@@ -8818,6 +8888,20 @@
     "age": "18+",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-06",
+    "time": "12:00 PM",
+    "name": "Smorgasburg",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Food / Dining",
+    "cost": "Check source",
+    "url": "https://miamibeachbandshell.com/event/smorgasburg/",
+    "source": "Miami Beach Bandshell",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-06",

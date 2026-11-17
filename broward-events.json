@@ -2979,7 +2979,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-21",
@@ -3021,7 +3021,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-22",
@@ -3032,6 +3032,20 @@
     "category": "Event",
     "cost": "USD 0",
     "url": "https://tixr.com/e/205540",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-11-27",
+    "time": "12:00 AM",
+    "name": "Quavo | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 30",
+    "url": "https://tixr.com/e/206020",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
@@ -3058,7 +3072,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 50",
+    "cost": "USD 55",
     "url": "https://tixr.com/e/213223",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -3072,12 +3086,26 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 75",
+    "cost": "USD 80",
     "url": "https://tixr.com/e/213245",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-04",
+    "time": "12:00 AM",
+    "name": "Menudo 50 | Rooftop Live",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 50",
+    "url": "https://tixr.com/e/208255",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-05",
