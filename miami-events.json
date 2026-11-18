@@ -8541,6 +8541,34 @@
   },
   {
     "date": "2026-11-18",
+    "time": "3:30 PM",
+    "name": "Moonlighter FabLab: Maker Club Afterschool Enrichment &#8211; 2026-2027",
+    "venue": "Moonlighter FabLab",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/moonlighter-fablab-maker-club-afterschool-enrichment-2026-2027/2026-11-18/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-18",
+    "time": "4:30 PM",
+    "name": "Human Rights Committee",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/human-rights-committee-3/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-18",
     "time": "7:00 PM",
     "name": "Milwaukee Bucks vs Miami HEAT",
     "venue": "Kaseya Center",
@@ -8552,6 +8580,34 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-18",
+    "time": "8:00 PM",
+    "name": "SoundScape Cinema Series: Supergirl",
+    "venue": "SoundScape Park",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/supergirl/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-18",
+    "time": "8:30 AM",
+    "name": "City Commission*",
+    "venue": "City Hall Commission Chamber",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/city-commission-3-2/2026-11-18/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-19",
@@ -8566,6 +8622,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-19",
+    "time": "8:00 AM",
+    "name": "Outdoor Yoga for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-11-19/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-20",
@@ -8873,7 +8943,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-05",
@@ -8901,7 +8971,7 @@
     "source": "Miami Beach Bandshell",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-06",

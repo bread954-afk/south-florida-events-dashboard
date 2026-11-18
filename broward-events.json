@@ -3049,7 +3049,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-28",
@@ -3105,7 +3105,7 @@
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-05",
@@ -3260,5 +3260,19 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-31",
+    "time": "12:00 AM",
+    "name": "deadmau5 - New Year&#39;s Eve | DAER Nightclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Nightlife / Party",
+    "cost": "USD 120",
+    "url": "https://tixr.com/e/207892",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   }
 ]
