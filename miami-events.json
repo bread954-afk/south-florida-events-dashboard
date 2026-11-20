@@ -8719,7 +8719,7 @@
     "source": "Kaseya Center",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-20",
@@ -8751,6 +8751,62 @@
   },
   {
     "date": "2026-11-22",
+    "time": "6:00 PM",
+    "name": "Cuerda &#038; Clave at The Betsy Piano Bar",
+    "venue": "betsey hotel",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-11-22/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-22",
+    "time": "6:00 PM",
+    "name": "Oklahoma City Thunder vs Miami HEAT",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D00650C8C8637E7?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on-sale&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-22",
+    "time": "6:00 PM",
+    "name": "The Ocean Drive Promenade Music Series",
+    "venue": "Lummus Park &#8211; 14 Street &#038; Ocean Drive",
+    "city": "Miami Beach",
+    "category": "Concert / Music",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-11-22/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-22",
+    "time": "7:00 PM",
+    "name": "Miami Beach Baila! by Commissioner Joe Magazine at the Bandshell",
+    "venue": "Miami Beach Bandshell",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/miami-beach-baila-by-commissioner-joe-magazine-november2026/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-22",
     "time": "7:00 PM",
     "name": "Miami Beach ¡Baila!",
     "venue": "Miami Beach Bandshell",
@@ -8762,6 +8818,34 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-22",
+    "time": "9:00 AM",
+    "name": "Lincoln Road Farmer&#8217;s Market",
+    "venue": "Lenox Avenue &#038; Lincoln Road",
+    "city": "Miami Beach",
+    "category": "Market",
+    "cost": "USD 0",
+    "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-11-22/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-23",
+    "time": "9:00 AM",
+    "name": "Tai Chi for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2-2/2026-11-23/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-25",
@@ -8779,6 +8863,20 @@
   },
   {
     "date": "2026-11-27",
+    "time": "1:00 PM",
+    "name": "Kaseya Center All-Access Tour",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Sports",
+    "cost": "Check source",
+    "url": "https://www.universe.com/events/kaseya-center-all-access-tour-tickets-J2H8C4",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-27",
     "time": "5:00 PM",
     "name": "Thanksgiving Roller Disco",
     "venue": "Miami Beach Bandshell",
@@ -8790,6 +8888,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-28",
+    "time": "7:00 PM",
+    "name": "Nick Cannon Presents: Wild ‘N Out Live",
+    "venue": "Kaseya Center",
+    "city": "Miami",
+    "category": "Event",
+    "cost": "Check source",
+    "url": "https://www.ticketmaster.com/event/0D0065299E107398?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=nick-cannon-wild-n-out_2026&promo_creative=button&promo_position=event_details",
+    "source": "Kaseya Center",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-28",
