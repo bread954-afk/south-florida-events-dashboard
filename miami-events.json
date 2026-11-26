@@ -9041,7 +9041,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-26",
@@ -9073,6 +9073,34 @@
   },
   {
     "date": "2026-11-27",
+    "time": "10:00 AM",
+    "name": "Art Class for Seniors (UN) – Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Art / Museum",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/art-class-for-seniors-fri-2/2026-11-27/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-27",
+    "time": "12:00 AM",
+    "name": "Day After Thanksgiving",
+    "venue": "Miami Beach Events",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/day-after-thanksgiving/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-27",
     "time": "1:00 PM",
     "name": "Kaseya Center All-Access Tour",
     "venue": "Kaseya Center",
@@ -9087,6 +9115,20 @@
   },
   {
     "date": "2026-11-27",
+    "time": "1:30 PM",
+    "name": "Flamenco for Seniors (UN)",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/flamenco-for-seniors-2/2026-11-27/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
+  },
+  {
+    "date": "2026-11-27",
     "time": "5:00 PM",
     "name": "Thanksgiving Roller Disco",
     "venue": "Miami Beach Bandshell",
@@ -9098,6 +9140,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-11-27",
+    "time": "9:15 AM",
+    "name": "Dance Fusion for Seniors (UN) &#8211; Fri",
+    "venue": "UNIDAD &#8211; 7251 Collins Avenue",
+    "city": "Miami Beach",
+    "category": "Community / Event",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-fri/2026-11-27/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-11-28",
