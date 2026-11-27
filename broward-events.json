@@ -3128,7 +3128,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 60",
+    "cost": "USD 65",
     "url": "https://tixr.com/e/213223",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -3142,7 +3142,7 @@
     "venue": "Hard Rock DAER",
     "city": "Davie",
     "category": "Nightlife / Party",
-    "cost": "USD 80",
+    "cost": "USD 90",
     "url": "https://tixr.com/e/213245",
     "source": "Hard Rock Nightlife / DAER",
     "age": "",
@@ -3218,6 +3218,20 @@
     "age": "",
     "featured": false,
     "new": false
+  },
+  {
+    "date": "2026-12-12",
+    "time": "12:00 AM",
+    "name": "Rick Ross &amp; Rubi Rose | DAER Dayclub",
+    "venue": "Hard Rock DAER",
+    "city": "Davie",
+    "category": "Event",
+    "cost": "USD 25",
+    "url": "https://tixr.com/e/207851",
+    "source": "Hard Rock Nightlife / DAER",
+    "age": "",
+    "featured": false,
+    "new": true
   },
   {
     "date": "2026-12-12",
