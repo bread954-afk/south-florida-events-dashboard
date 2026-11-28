@@ -9195,7 +9195,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-29",
@@ -9206,6 +9206,20 @@
     "category": "Art / Museum",
     "cost": "USD 0",
     "url": "https://events.miamibeachfl.gov/event/the-bass-free-community-day/2026-11-29/",
+    "source": "Miami Beach Events",
+    "age": "",
+    "featured": false,
+    "new": false
+  },
+  {
+    "date": "2026-11-29",
+    "time": "6:00 PM",
+    "name": "Normandy Fountain Festival of Lights",
+    "venue": "Normandy Fountain &#8211; 7802 Rue Vendome",
+    "city": "Miami Beach",
+    "category": "Festival",
+    "cost": "Check source",
+    "url": "https://events.miamibeachfl.gov/event/normandy-fountain-festival-of-lights/",
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
@@ -9223,7 +9237,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-11-29",
@@ -9237,7 +9251,7 @@
     "source": "Miami Beach Events",
     "age": "",
     "featured": false,
-    "new": true
+    "new": false
   },
   {
     "date": "2026-12-01",
